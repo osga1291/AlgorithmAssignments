@@ -1,0 +1,10023 @@
+R 3479
+I  5642
+D 2
+I  10306
+S  11141 false
+D 3
+I  11141
+D 4
+I  2621
+I  1210
+S  2997 false
+D 4
+I  2263
+I  5456
+S  10305 false
+I  4133
+S  6730 false
+I  2997
+S  4133 true
+I  6730
+S  9055 false
+D 4
+I  10305
+D 5
+I  6823
+S  2621 true
+D 6
+I  2406
+I  10539
+S  5456 true
+D 6
+I  5545
+D 6
+I  9055
+D 7
+I  12939
+I  10754
+S  1812 false
+I  8008
+I  4
+S  7212 false
+I  11205
+S  2621 true
+I  13791
+S  5643 false
+I  11047
+D 8
+I  13583
+D 8
+I  2171
+I  7212
+I  9516
+S  4133 true
+I  1812
+I  3622
+S  11047 true
+D 9
+I  13190
+I  1154
+S  14603 false
+D 9
+I  14888
+S  14177 false
+D 9
+I  14603
+D 9
+I  1291
+S  14888 true
+I  5643
+S  5456 true
+I  11785
+D 9
+I  6287
+S  2906 false
+I  6564
+D 9
+I  4417
+S  6599 false
+D 9
+I  9350
+I  2012
+S  8223 false
+I  13946
+I  2915
+S  6082 false
+D 9
+I  11541
+S  2263 true
+D 9
+I  1531
+D 9
+I  7480
+S  5545 true
+D 10
+I  9438
+S  2012 true
+D 10
+I  13679
+I  8223
+S  6287 true
+D 10
+I  6599
+D 10
+I  497
+S  2906 false
+I  527
+S  5642 true
+I  2216
+I  1413
+S  6585 false
+I  1116
+I  5654
+S  4096 false
+D 10
+I  14177
+I  13666
+S  2012 true
+I  11042
+I  6585
+I  8574
+I  6614
+S  11042 true
+I  5793
+S  1812 true
+D 10
+I  7722
+D 11
+I  5524
+S  2915 true
+D 11
+I  2047
+I  6117
+S  6564 true
+D 11
+I  2906
+S  13128 false
+I  1313
+S  14177 true
+I  5145
+I  12004
+D 11
+I  10886
+I  11842
+I  9374
+I  1764
+I  3563
+S  6823 true
+I  10580
+D 11
+I  13694
+I  6082
+I  1910
+D 11
+I  1901
+S  6564 true
+D 11
+I  12418
+D 11
+I  4491
+I  3890
+S  1909 false
+D 11
+I  10360
+D 11
+I  10031
+S  5776 false
+I  5998
+I  11201
+S  9350 true
+D 11
+I  5721
+S  2406 true
+I  5776
+S  5438 false
+D 11
+I  4590
+I  10686
+S  12387 false
+I  4806
+S  8675 false
+I  4258
+S  1812 true
+D 11
+I  12387
+D 11
+I  13128
+D 11
+I  12461
+S  10686 true
+I  5251
+I  4708
+I  11366
+S  9890 false
+I  8371
+S  10539 true
+D 11
+I  10119
+S  3134 false
+D 11
+I  3497
+I  1065
+S  12418 true
+D 11
+I  2456
+S  6287 true
+I  4096
+D 11
+I  5103
+S  14603 true
+I  11492
+I  971
+S  3497 true
+I  14079
+D 11
+I  5940
+S  7816 false
+D 12
+I  11967
+D 12
+I  13348
+S  7212 true
+D 12
+I  5446
+S  5435 false
+I  1555
+S  14603 true
+D 12
+I  5438
+S  10360 true
+I  7877
+S  1291 true
+I  172
+I  5934
+S  3113 false
+I  9807
+I  12802
+S  8574 true
+D 13
+I  13552
+I  8412
+S  5103 true
+D 13
+I  11397
+D 13
+I  9735
+S  12232 false
+D 13
+I  2039
+I  8675
+I  6258
+I  5270
+S  10004 false
+D 13
+I  68
+S  3672 false
+D 13
+I  10004
+S  2039 true
+D 13
+I  14004
+S  5793 true
+D 13
+I  7177
+S  10031 true
+I  10476
+D 13
+I  7389
+S  10031 true
+I  186
+D 13
+I  4646
+S  10305 true
+D 13
+I  3396
+S  11270 false
+I  3134
+D 13
+I  11810
+S  2773 false
+I  2717
+I  4466
+S  990 false
+I  4203
+S  13493 false
+I  1369
+I  13411
+S  4893 false
+D 13
+I  5153
+S  5393 false
+D 13
+I  14502
+D 13
+I  12721
+I  12563
+I  2930
+I  957
+S  3723 false
+I  1909
+I  6649
+S  5940 true
+D 13
+I  11503
+I  12232
+S  11397 true
+I  12940
+S  11503 true
+I  12274
+D 13
+I  419
+S  4806 true
+I  9992
+D 13
+I  1075
+I  4855
+I  9890
+D 13
+I  3211
+S  5654 true
+I  2905
+S  5913 false
+D 13
+I  6588
+I  8655
+I  7816
+S  14862 false
+D 13
+I  4552
+S  7080 false
+I  5435
+D 13
+I  12484
+D 14
+I  10788
+S  8905 false
+I  4315
+S  4806 true
+I  1511
+S  13128 true
+D 14
+I  6177
+I  14684
+S  4590 true
+D 14
+I  11245
+D 14
+I  990
+S  2230 false
+I  8073
+S  14880 false
+D 14
+I  3724
+D 14
+I  13708
+S  7704 false
+I  5748
+I  8905
+I  12570
+I  8210
+I  8815
+S  7408 false
+I  4880
+I  5616
+S  14763 false
+I  14326
+D 14
+I  12767
+S  640 false
+I  441
+I  10041
+I  14880
+S  9648 false
+I  13397
+S  419 true
+I  7741
+D 14
+I  5424
+I  5823
+D 14
+I  2230
+D 14
+I  13145
+S  7824 false
+D 14
+I  3156
+S  10539 true
+D 14
+I  3358
+I  9648
+S  10788 true
+I  2773
+S  4806 true
+I  9762
+S  8675 true
+D 14
+I  229
+S  2305 false
+D 14
+I  7080
+I  5320
+S  5643 true
+D 14
+I  2755
+D 14
+I  3113
+S  5524 true
+D 14
+I  501
+I  5194
+D 14
+I  10505
+S  3105 false
+I  8757
+I  14650
+I  10590
+I  13012
+D 14
+I  10008
+D 14
+I  8196
+D 14
+I  2479
+I  10221
+I  3665
+D 14
+I  14668
+D 14
+I  7704
+S  2171 true
+I  1997
+D 14
+I  3672
+S  14880 true
+D 14
+I  9998
+S  7707 false
+I  9571
+S  3982 false
+D 14
+I  6744
+D 14
+I  6185
+I  8352
+S  35 false
+D 14
+I  13870
+S  2143 false
+I  625
+D 14
+I  3872
+I  12348
+I  6505
+I  2972
+D 14
+I  5094
+D 14
+I  13006
+D 14
+I  10148
+D 14
+I  12815
+S  11785 true
+D 14
+I  2547
+S  344 false
+D 14
+I  14508
+I  2824
+S  7212 true
+D 14
+I  4893
+I  11270
+D 14
+I  5336
+S  13190 true
+D 14
+I  653
+S  3375 false
+I  1469
+S  4552 true
+I  2075
+S  8574 true
+I  7400
+S  7873 false
+I  5833
+S  5721 true
+D 15
+I  4814
+S  11541 true
+I  7496
+D 15
+I  8045
+S  625 true
+D 15
+I  4071
+I  12421
+I  5393
+S  6744 true
+I  10125
+D 15
+I  3723
+I  5498
+S  2773 true
+D 15
+I  9286
+S  4466 true
+I  6384
+S  2062 false
+D 15
+I  7587
+D 15
+I  13493
+S  14800 false
+I  5581
+S  7417 false
+I  14379
+D 15
+I  4527
+S  1812 true
+I  11755
+I  8430
+I  8638
+D 15
+I  11315
+S  1876 false
+I  5342
+S  11877 false
+I  14955
+S  1910 true
+D 16
+I  8594
+D 16
+I  13803
+I  5913
+I  14862
+S  1944 false
+I  9965
+S  6564 true
+D 16
+I  2740
+S  7477 false
+I  3995
+S  8008 true
+D 16
+I  2015
+S  5524 true
+D 16
+I  11702
+D 16
+I  6862
+S  12461 true
+I  6063
+S  4528 false
+D 16
+I  8756
+S  4555 false
+I  7477
+D 16
+I  6479
+S  3665 true
+D 16
+I  2608
+S  2485 false
+I  4882
+S  215 false
+I  4935
+S  13506 false
+I  4528
+S  3830 false
+D 16
+I  11622
+D 16
+I  2207
+S  9221 false
+D 16
+I  2995
+D 16
+I  1944
+D 16
+I  9558
+D 16
+I  14773
+S  9992 true
+D 16
+I  3387
+S  3890 true
+D 16
+I  8852
+S  1997 true
+D 16
+I  4313
+S  835 false
+I  8664
+S  54 false
+I  2062
+D 16
+I  14763
+D 16
+I  13978
+S  13978 true
+I  1032
+I  7843
+I  8048
+S  3626 false
+I  10238
+S  971 true
+I  6144
+S  5498 true
+D 16
+I  2973
+I  10234
+D 16
+I  1616
+D 16
+I  7368
+S  5320 true
+D 16
+I  12536
+D 16
+I  11331
+S  2906 true
+I  7541
+S  14955 true
+D 16
+I  2305
+D 16
+I  3286
+D 16
+I  2302
+I  5659
+D 16
+I  12744
+D 16
+I  11518
+D 16
+I  1352
+S  3211 true
+D 16
+I  1449
+S  2027 false
+I  8128
+S  8036 false
+D 16
+I  10574
+S  8655 true
+I  459
+D 16
+I  3830
+S  5424 true
+D 16
+I  3027
+I  2340
+S  2644 false
+D 16
+I  13612
+I  13849
+S  5279 false
+D 16
+I  11656
+I  2843
+D 16
+I  1370
+D 16
+I  14558
+S  6866 false
+D 16
+I  12867
+D 16
+I  13953
+D 16
+I  2485
+I  12973
+S  6891 false
+I  353
+D 16
+I  11908
+S  9965 true
+I  13054
+S  13552 true
+D 16
+I  1921
+S  10306 true
+I  7824
+S  7114 false
+D 16
+I  7159
+S  3156 true
+I  3375
+I  2449
+S  13243 false
+I  640
+I  14023
+S  5748 true
+D 16
+I  8039
+S  229 true
+D 16
+I  4277
+I  443
+S  11738 false
+I  12612
+D 16
+I  10470
+D 16
+I  783
+D 16
+I  12928
+S  10580 true
+D 16
+I  9245
+D 16
+I  525
+S  2795 false
+I  3569
+S  9374 true
+I  3982
+I  3128
+D 16
+I  13
+D 16
+I  8247
+D 16
+I  7408
+S  11093 false
+I  9725
+D 16
+I  8327
+D 16
+I  7002
+D 16
+I  13123
+D 16
+I  2936
+S  10666 false
+I  35
+S  13993 false
+D 16
+I  9547
+S  14004 true
+I  11278
+D 16
+I  10666
+I  11442
+S  4009 false
+I  6276
+S  7405 false
+D 16
+I  9309
+S  6120 false
+D 16
+I  4479
+S  14204 false
+I  5213
+I  9108
+S  11141 true
+I  9836
+D 16
+I  10735
+I  5388
+D 17
+I  12311
+S  10574 true
+I  344
+I  11877
+S  10953 false
+D 17
+I  11037
+I  8444
+I  3181
+S  35 true
+I  14762
+I  8493
+I  5334
+S  3563 true
+D 17
+I  3105
+S  11656 true
+I  13273
+S  10935 false
+D 17
+I  10596
+S  1902 false
+I  7417
+S  8045 true
+D 17
+I  11939
+S  9155 false
+D 17
+I  7510
+D 17
+I  6149
+I  11058
+D 17
+I  10193
+D 17
+I  7517
+I  7873
+D 17
+I  6974
+D 17
+I  3220
+I  13181
+D 17
+I  13506
+S  7496 true
+D 17
+I  8608
+S  14502 true
+I  5589
+D 17
+I  13859
+I  11464
+D 17
+I  1876
+S  2972 true
+I  2143
+D 17
+I  12927
+I  182
+I  7314
+S  4074 false
+D 17
+I  11933
+I  14496
+D 17
+I  12048
+I  808
+D 17
+I  6637
+S  11278 true
+D 17
+I  6592
+S  13870 true
+I  11669
+S  10476 true
+I  11157
+D 17
+I  7789
+I  4275
+I  12622
+D 17
+I  7790
+S  4002 false
+D 17
+I  13130
+S  10193 true
+I  3097
+S  4074 false
+D 17
+I  12882
+S  10359 false
+I  14709
+S  9046 false
+I  2828
+S  1984 false
+D 17
+I  2631
+S  14508 true
+I  6306
+S  10674 false
+I  1861
+I  577
+S  535 false
+D 17
+I  5676
+S  1511 true
+I  7114
+S  6069 false
+D 17
+I  7958
+D 17
+I  8743
+S  6588 true
+I  2644
+S  9504 false
+D 17
+I  7707
+S  1145 false
+D 17
+I  9700
+S  4417 true
+I  11862
+S  3665 true
+D 17
+I  40
+S  5350 false
+D 17
+I  9246
+S  14650 true
+I  6728
+S  1075 true
+I  9661
+I  2457
+D 17
+I  13306
+S  12307 false
+I  3889
+I  13772
+S  1914 false
+I  4456
+D 17
+I  4643
+S  9943 false
+D 17
+I  2696
+D 17
+I  12097
+I  13495
+S  13675 false
+D 17
+I  13840
+D 17
+I  5956
+S  3189 false
+I  8717
+S  46 false
+D 17
+I  9504
+S  589 false
+D 17
+I  4395
+D 17
+I  14038
+I  10479
+D 17
+I  9499
+I  1092
+S  4199 false
+I  3860
+D 17
+I  10652
+D 17
+I  6939
+I  3969
+I  895
+S  14028 false
+D 17
+I  14800
+I  8564
+S  8815 true
+I  10836
+S  10434 false
+I  13023
+I  14154
+S  4809 false
+I  3828
+S  5721 true
+D 17
+I  2020
+I  5407
+S  12421 true
+I  8659
+D 17
+I  10631
+I  6133
+S  13182 false
+D 17
+I  3303
+S  13953 true
+D 17
+I  31
+S  13023 true
+D 17
+I  9076
+I  1847
+S  9289 false
+I  12307
+S  10031 true
+D 17
+I  4259
+S  7408 true
+D 17
+I  14373
+D 17
+I  13304
+S  8815 true
+I  6634
+S  5654 true
+D 17
+I  10434
+I  3528
+S  2894 false
+I  2045
+S  9890 true
+D 17
+I  9841
+S  7445 false
+D 17
+I  535
+S  12421 true
+D 17
+I  2504
+D 17
+I  835
+S  14121 false
+D 17
+I  4555
+S  3982 true
+D 17
+I  6176
+D 17
+I  2027
+D 17
+I  9981
+S  11353 false
+I  10121
+D 17
+I  8274
+S  10152 false
+D 17
+I  13318
+S  1764 true
+I  14121
+S  4096 true
+D 17
+I  10437
+D 17
+I  13199
+D 17
+I  5924
+S  12622 true
+I  5860
+S  9641 false
+D 17
+I  9221
+I  4009
+S  12940 true
+D 17
+I  1424
+S  10505 true
+I  6236
+I  12759
+S  13145 true
+D 17
+I  10250
+S  322 false
+I  1205
+S  1335 false
+I  7283
+S  7795 false
+D 17
+I  2939
+S  2171 true
+I  4569
+S  8811 false
+I  14108
+S  1914 false
+I  14112
+I  46
+S  9804 false
+I  7469
+I  14596
+S  4528 true
+I  3956
+I  12638
+D 17
+I  2713
+D 17
+I  10572
+I  3018
+I  10757
+I  7348
+S  4145 false
+D 17
+I  4438
+S  1183 false
+D 17
+I  4440
+I  13182
+S  7627 false
+I  395
+S  14558 true
+D 17
+I  3626
+I  13677
+S  14963 false
+I  1984
+I  1720
+S  993 false
+D 17
+I  7330
+I  8811
+I  2735
+S  1368 false
+D 17
+I  10763
+D 17
+I  6070
+I  5391
+S  4133 true
+D 18
+I  13203
+S  11037 true
+D 18
+I  8536
+S  4555 true
+D 18
+I  11337
+D 18
+I  6074
+D 18
+I  9086
+S  7314 true
+D 18
+I  215
+I  8036
+I  13993
+S  4093 false
+D 18
+I  13819
+S  12724 false
+D 18
+I  2664
+S  7843 true
+I  10674
+I  14286
+S  2087 false
+D 18
+I  589
+S  1145 false
+I  3913
+D 18
+I  11280
+S  7873 true
+D 18
+I  11404
+D 18
+I  14451
+S  5215 false
+I  10359
+D 18
+I  8823
+D 18
+I  6786
+S  1092 true
+D 18
+I  9001
+I  136
+D 18
+I  5279
+S  3969 true
+D 18
+I  9155
+D 18
+I  8579
+I  11564
+I  2194
+D 18
+I  14203
+S  5388 true
+I  1713
+I  5553
+S  7795 false
+I  1840
+I  4780
+D 18
+I  11093
+S  13493 true
+D 18
+I  10916
+I  10222
+S  6070 true
+D 18
+I  13038
+S  2027 true
+I  3745
+S  7741 true
+D 18
+I  7595
+S  3872 true
+I  4145
+S  2608 true
+D 18
+I  4716
+I  12578
+D 18
+I  6891
+S  9980 false
+I  54
+S  2964 false
+I  840
+I  6849
+S  6564 true
+I  6120
+D 18
+I  14204
+D 18
+I  13290
+I  923
+S  3563 true
+D 18
+I  14891
+D 18
+I  13778
+D 18
+I  14192
+S  12882 true
+I  4199
+S  9500 false
+I  4564
+S  8493 true
+D 18
+I  174
+I  9500
+S  10833 false
+D 18
+I  2142
+I  10023
+S  14955 true
+I  6958
+S  3113 true
+I  7138
+D 18
+I  10661
+S  11392 false
+I  7285
+D 18
+I  6972
+S  1720 true
+D 18
+I  2922
+D 18
+I  4809
+S  3969 true
+I  5372
+S  13028 false
+D 18
+I  9968
+I  5534
+I  11138
+I  679
+I  11730
+S  9246 true
+I  11215
+I  7795
+D 18
+I  2509
+D 18
+I  11654
+S  2843 true
+I  5165
+S  10572 true
+I  6866
+D 18
+I  1304
+D 18
+I  3950
+I  384
+I  4074
+S  3745 true
+I  139
+I  1063
+I  10621
+I  14087
+I  10166
+S  14906 false
+I  4976
+S  1361 false
+I  7405
+I  13243
+S  577 true
+I  11084
+S  4466 true
+I  5330
+S  10404 false
+D 18
+I  13569
+D 18
+I  2877
+I  13741
+I  1361
+D 18
+I  10935
+I  993
+S  5165 true
+D 18
+I  10894
+I  13904
+S  5342 true
+D 18
+I  11436
+I  11944
+I  5946
+S  2893 false
+I  10936
+S  13182 true
+D 18
+I  2836
+S  5831 false
+I  6073
+S  13803 true
+I  2243
+S  13346 false
+D 18
+I  8888
+S  11582 false
+I  14028
+S  13886 false
+I  8250
+I  3210
+I  14549
+I  5976
+D 18
+I  8540
+D 18
+I  3244
+S  13411 true
+D 18
+I  10768
+S  1481 false
+D 18
+I  2893
+S  1406 false
+D 18
+I  9410
+S  12943 false
+D 18
+I  566
+D 18
+I  2542
+S  7510 true
+I  2017
+D 18
+I  14233
+S  11141 true
+D 18
+I  8822
+S  2406 true
+I  7000
+D 18
+I  10229
+I  3079
+D 18
+I  10953
+D 18
+I  1189
+D 18
+I  10827
+S  11044 false
+D 18
+I  2635
+I  2228
+S  1635 false
+I  5215
+S  2351 false
+I  8549
+D 19
+I  14469
+I  3189
+D 19
+I  814
+I  10298
+S  4438 true
+D 19
+I  7928
+S  857 false
+I  12999
+I  1368
+S  5676 true
+I  4005
+I  6943
+S  11751 false
+D 19
+I  2306
+S  978 false
+I  1902
+D 19
+I  1780
+I  9546
+S  11128 false
+D 19
+I  1714
+D 19
+I  5343
+D 19
+I  12409
+I  13046
+I  7117
+D 19
+I  11738
+D 19
+I  9974
+D 19
+I  12078
+I  6069
+S  10633 false
+D 19
+I  12946
+D 19
+I  6163
+D 19
+I  2795
+D 19
+I  3467
+D 19
+I  3403
+S  9122 false
+I  7166
+S  9428 false
+I  5469
+D 19
+I  13170
+D 19
+I  3757
+S  6477 false
+I  3272
+I  4949
+S  7469 true
+I  8732
+I  8787
+D 19
+I  12709
+I  10284
+S  3387 true
+I  11486
+D 19
+I  13075
+S  12752 false
+I  13558
+D 19
+I  1335
+D 19
+I  11544
+D 19
+I  1914
+S  13886 false
+D 19
+I  7641
+I  5685
+I  9840
+D 19
+I  11512
+I  7705
+D 19
+I  8366
+I  6964
+S  5213 true
+I  7627
+S  395 true
+D 19
+I  4758
+S  11353 false
+D 19
+I  310
+I  9046
+I  9719
+D 19
+I  4125
+S  12946 true
+D 19
+I  2362
+S  5608 false
+D 19
+I  6387
+D 19
+I  5816
+I  5379
+S  11503 true
+D 19
+I  207
+D 19
+I  11299
+S  6972 true
+D 19
+I  7566
+I  14906
+S  6697 false
+I  80
+S  6687 false
+I  7254
+I  202
+D 19
+I  1295
+I  14963
+D 19
+I  9927
+S  10119 true
+D 19
+I  11800
+I  5583
+I  6898
+S  2997 true
+I  9135
+S  4148 false
+I  8
+S  2843 true
+D 19
+I  8865
+I  9766
+D 19
+I  13628
+D 19
+I  5504
+D 19
+I  4216
+S  14955 true
+I  8889
+D 19
+I  242
+I  3170
+S  11442 true
+D 19
+I  1145
+D 19
+I  14396
+S  6626 false
+D 19
+I  3131
+D 19
+I  2529
+I  13975
+S  4074 true
+I  2478
+S  11358 false
+I  13675
+S  4456 true
+I  11769
+S  9504 true
+I  12832
+D 19
+I  4224
+I  4040
+I  4476
+S  12004 true
+D 19
+I  11150
+I  8966
+S  5412 false
+D 19
+I  7445
+S  1139 false
+D 19
+I  14659
+S  2362 true
+I  4235
+D 19
+I  1505
+S  505 false
+I  2569
+S  706 false
+I  1613
+D 19
+I  4879
+S  54 true
+I  13441
+S  12743 false
+D 19
+I  13656
+D 19
+I  2240
+S  1164 false
+I  13312
+I  5985
+S  14109 false
+D 19
+I  7164
+S  12379 false
+D 19
+I  8724
+D 19
+I  12863
+S  6939 true
+I  8801
+I  3326
+S  8743 true
+I  5064
+D 19
+I  14571
+D 19
+I  12509
+S  3286 true
+D 19
+I  8704
+I  9252
+I  138
+D 19
+I  5350
+I  9747
+D 20
+I  1702
+S  4716 true
+D 20
+I  10829
+I  9642
+S  12082 false
+I  14685
+I  11576
+I  13085
+S  14650 true
+D 20
+I  12686
+S  4040 true
+D 20
+I  6766
+D 20
+I  4002
+S  3913 true
+D 20
+I  11743
+D 20
+I  13733
+I  12306
+D 20
+I  4138
+S  11967 true
+D 20
+I  10404
+I  5598
+S  4199 true
+I  11903
+D 20
+I  10626
+S  7517 true
+D 20
+I  10152
+S  12377 false
+D 20
+I  1241
+D 20
+I  13236
+I  9980
+S  13290 true
+I  1879
+D 20
+I  9750
+S  1874 false
+D 20
+I  5611
+S  11769 true
+D 20
+I  8685
+D 20
+I  5222
+I  1708
+S  14102 false
+I  1183
+S  8176 false
+D 20
+I  5386
+S  13418 false
+I  14327
+I  9276
+I  1603
+S  2717 true
+I  578
+D 20
+I  5587
+S  3150 false
+I  9219
+I  7853
+I  3449
+I  11069
+S  1361 true
+I  5900
+S  4922 false
+I  4728
+D 20
+I  11582
+D 20
+I  8899
+D 20
+I  2130
+D 20
+I  397
+I  13385
+S  8742 false
+D 20
+I  322
+S  3672 true
+D 20
+I  12543
+S  353 true
+D 20
+I  4265
+S  1899 false
+I  495
+S  10364 false
+D 20
+I  9943
+S  6744 true
+I  12082
+S  1902 true
+I  2191
+S  1723 false
+D 20
+I  4856
+I  6626
+S  2191 true
+I  4969
+S  12821 false
+I  4472
+I  7006
+S  9758 false
+I  5557
+I  10691
+D 20
+I  13106
+S  2720 false
+I  2501
+D 20
+I  9335
+I  11250
+S  10435 false
+D 20
+I  9673
+D 20
+I  3386
+S  1297 false
+D 20
+I  698
+S  2557 false
+D 20
+I  9804
+S  2406 true
+I  2700
+I  13797
+I  12640
+D 20
+I  2369
+S  3837 false
+I  559
+I  13851
+S  4377 false
+D 20
+I  13695
+D 20
+I  2113
+I  12979
+S  12564 false
+I  3360
+S  8031 false
+I  10973
+D 20
+I  14633
+S  6766 true
+D 20
+I  4905
+I  10718
+S  5469 true
+I  13886
+S  11546 false
+D 20
+I  8382
+I  2894
+I  7146
+S  14203 true
+I  11288
+S  10916 true
+I  13614
+S  859 false
+D 20
+I  14481
+D 20
+I  6834
+I  9208
+S  12461 true
+I  12407
+D 20
+I  10351
+S  886 false
+D 20
+I  14662
+S  11903 true
+D 20
+I  11609
+S  12536 true
+D 20
+I  9876
+S  11307 false
+I  11546
+S  1247 false
+D 20
+I  6463
+D 20
+I  7011
+I  13893
+I  13268
+I  6889
+S  4417 true
+I  505
+S  2586 false
+D 20
+I  4068
+I  5931
+S  11141 true
+D 20
+I  9122
+D 20
+I  5837
+D 20
+I  11693
+D 20
+I  8749
+S  745 false
+D 20
+I  1139
+S  7282 false
+I  2350
+S  9546 true
+D 20
+I  99
+D 20
+I  10877
+I  75
+S  1723 false
+D 20
+I  7172
+S  13978 true
+D 20
+I  13158
+I  13389
+S  13306 true
+D 20
+I  1640
+I  12724
+S  2644 true
+I  5055
+D 20
+I  8581
+S  14151 false
+I  8089
+S  5973 false
+D 20
+I  8358
+I  13028
+S  13552 true
+I  13719
+I  6202
+S  5894 false
+I  10794
+S  9836 true
+D 20
+I  11286
+I  13194
+S  9286 true
+I  6053
+D 20
+I  899
+D 20
+I  9641
+S  12232 true
+D 20
+I  9794
+S  2834 false
+D 20
+I  11044
+S  8 true
+I  14929
+S  3030 false
+I  3
+I  12752
+D 20
+I  9289
+S  14044 false
+I  8480
+I  3323
+S  11502 false
+I  11570
+D 20
+I  905
+S  14210 false
+D 20
+I  4815
+S  3860 true
+I  11128
+S  2635 true
+D 20
+I  4139
+S  344 true
+D 20
+I  12890
+D 20
+I  13622
+D 20
+I  4562
+I  14334
+D 20
+I  1512
+S  11623 false
+I  5353
+S  10674 true
+I  420
+I  5533
+D 21
+I  7040
+S  1586 false
+I  3032
+I  13418
+S  8831 false
+D 21
+I  7905
+D 21
+I  13251
+S  5931 true
+I  354
+I  5486
+S  14617 false
+I  12379
+S  7824 true
+D 21
+I  8082
+S  8738 false
+I  9923
+S  966 false
+I  1562
+S  3795 false
+D 21
+I  9215
+S  9915 false
+I  9185
+D 21
+I  11502
+S  13791 true
+I  3294
+I  14109
+S  12131 false
+I  14844
+S  2700 true
+D 21
+I  11188
+S  11591 false
+I  2940
+D 21
+I  13031
+S  14906 true
+I  14956
+I  467
+D 21
+I  13717
+S  10495 false
+I  1389
+I  11353
+S  4139 true
+I  6850
+I  10633
+D 21
+I  8916
+I  1382
+I  11311
+I  149
+S  13699 false
+D 21
+I  1463
+I  922
+S  13821 false
+I  4885
+I  12943
+D 21
+I  11618
+I  14102
+S  12461 true
+D 21
+I  10808
+D 21
+I  13699
+S  7177 true
+I  1586
+S  10768 true
+D 21
+I  11808
+S  9725 true
+I  2245
+S  14204 true
+I  5085
+S  13468 false
+D 21
+I  6261
+S  7472 false
+I  7361
+D 21
+I  1031
+S  7543 false
+I  10435
+S  693 false
+I  12614
+S  886 false
+I  12541
+D 21
+I  8134
+S  11564 true
+D 21
+I  4093
+S  4135 false
+I  10760
+D 21
+I  345
+S  9438 true
+I  1655
+D 21
+I  13520
+D 21
+I  4473
+S  5257 false
+I  10833
+S  13728 false
+I  10259
+I  9476
+S  13532 false
+D 21
+I  119
+D 21
+I  14210
+D 21
+I  10931
+D 21
+I  6687
+S  6505 true
+D 21
+I  14440
+S  12146 false
+I  11392
+S  8285 false
+D 21
+I  10997
+S  11560 false
+I  9908
+I  11129
+D 21
+I  13294
+S  9076 true
+I  1837
+D 21
+I  6203
+S  5946 true
+D 21
+I  5466
+I  1194
+S  6099 false
+D 21
+I  5771
+S  535 true
+I  8408
+S  2217 false
+I  2011
+S  11311 true
+I  1496
+D 21
+I  8054
+I  10005
+S  1180 false
+D 21
+I  6773
+D 21
+I  3116
+S  14603 true
+I  5480
+I  6274
+D 21
+I  2247
+S  7595 true
+I  2351
+I  1782
+S  12504 false
+D 21
+I  2087
+I  2414
+S  2384 false
+I  5570
+I  1507
+S  5931 true
+I  4108
+S  6258 true
+D 21
+I  5894
+I  7755
+I  9320
+I  9391
+D 21
+I  4774
+S  3271 false
+I  792
+S  13382 false
+D 21
+I  12316
+D 21
+I  4412
+D 21
+I  2080
+D 21
+I  9758
+I  1793
+S  10652 true
+I  7233
+I  10029
+I  10753
+S  9600 false
+D 21
+I  6238
+S  525 true
+I  2545
+D 21
+I  3282
+S  4461 false
+D 21
+I  4471
+S  12985 false
+I  2964
+I  7015
+S  4563 false
+I  6643
+S  3952 false
+D 21
+I  9397
+S  14511 false
+I  10699
+S  1345 false
+D 21
+I  14101
+S  1821 false
+I  1693
+S  13067 false
+D 21
+I  14617
+I  10084
+D 21
+I  6563
+S  3795 false
+I  13878
+S  202 true
+D 21
+I  48
+D 21
+I  1043
+D 21
+I  3036
+S  3097 true
+I  1454
+I  14801
+I  3996
+S  6376 false
+D 21
+I  14782
+I  3150
+S  7177 true
+D 21
+I  10570
+S  652 false
+I  5362
+S  10409 false
+D 22
+I  10420
+D 22
+I  548
+D 22
+I  9064
+S  2964 true
+I  8657
+I  55
+I  13902
+D 22
+I  11183
+I  10488
+I  10653
+S  2414 true
+D 22
+I  1067
+I  11074
+S  12412 false
+D 22
+I  8680
+S  13273 true
+I  11109
+D 22
+I  2269
+S  7113 false
+D 22
+I  6138
+I  5412
+S  4525 false
+D 22
+I  14339
+S  14028 true
+I  3281
+S  14662 true
+I  10269
+D 22
+I  13732
+D 22
+I  6978
+D 22
+I  8649
+S  395 true
+D 22
+I  5831
+I  12247
+I  3533
+S  5581 true
+I  3335
+I  5973
+S  14609 false
+D 22
+I  7383
+S  1923 false
+I  6865
+I  11751
+S  5219 false
+I  4522
+S  8497 false
+D 22
+I  12690
+D 22
+I  9436
+I  12234
+S  14379 true
+D 22
+I  8528
+S  12307 true
+D 22
+I  2172
+D 22
+I  4435
+D 22
+I  7635
+S  578 true
+D 22
+I  10330
+D 22
+I  8026
+S  55 true
+I  9380
+S  5927 false
+I  4153
+S  8801 true
+I  12229
+D 22
+I  13587
+S  525 true
+D 22
+I  13125
+S  11623 false
+D 22
+I  6733
+S  3386 true
+I  5324
+S  5837 true
+I  2353
+D 22
+I  9823
+S  2970 false
+I  6301
+S  1659 false
+I  7553
+I  8159
+S  4637 false
+D 22
+I  2116
+S  7314 true
+D 22
+I  13179
+S  8616 false
+D 22
+I  12131
+S  11507 false
+D 22
+I  8748
+S  986 false
+I  1923
+I  2562
+S  1782 true
+I  3006
+S  5504 true
+I  6830
+S  1647 false
+D 22
+I  117
+D 22
+I  1482
+S  8229 false
+D 22
+I  10364
+S  6852 false
+I  978
+D 22
+I  6229
+I  7074
+D 22
+I  12254
+S  8685 true
+D 22
+I  7802
+D 22
+I  8041
+D 22
+I  11028
+D 22
+I  2720
+I  73
+S  2621 true
+D 22
+I  11346
+S  3745 true
+I  8405
+D 22
+I  12657
+D 22
+I  9631
+I  10537
+S  1562 true
+D 22
+I  797
+I  11809
+S  4133 true
+D 22
+I  2804
+I  13004
+D 22
+I  12225
+D 22
+I  216
+S  1432 false
+I  2290
+I  6358
+S  11225 false
+D 22
+I  13463
+S  1189 true
+D 22
+I  9545
+S  3619 false
+D 22
+I  12884
+D 22
+I  12330
+I  12735
+D 22
+I  456
+S  1197 false
+I  5034
+I  6727
+I  3271
+S  14121 true
+D 22
+I  13969
+D 22
+I  9136
+D 22
+I  3355
+S  14879 false
+I  4598
+I  744
+I  7479
+S  9458 false
+D 22
+I  14061
+I  503
+S  12366 false
+I  7460
+I  706
+I  1211
+I  2834
+S  9877 false
+D 22
+I  5310
+S  1977 false
+I  6009
+D 22
+I  5621
+S  2443 false
+I  13752
+S  4108 true
+I  2077
+D 22
+I  8742
+D 22
+I  6136
+S  3795 false
+D 22
+I  2899
+D 22
+I  7919
+S  5222 true
+I  3700
+I  12051
+S  13348 true
+D 22
+I  6298
+S  2411 false
+I  10692
+S  9841 true
+I  8176
+S  6117 true
+D 22
+I  6689
+S  13587 true
+D 22
+I  10679
+I  12032
+D 22
+I  9027
+D 22
+I  11097
+S  11541 true
+I  2801
+S  3995 true
+I  12663
+D 22
+I  8325
+D 22
+I  5311
+S  9109 false
+D 22
+I  11230
+S  7438 false
+I  13474
+I  8439
+S  11832 false
+D 22
+I  8448
+S  1335 true
+D 22
+I  1556
+I  11418
+S  2172 true
+D 22
+I  6816
+S  11073 false
+I  7920
+D 22
+I  11073
+D 22
+I  4179
+S  835 true
+I  12154
+S  7986 false
+D 22
+I  2070
+I  2447
+I  872
+I  1874
+S  1342 false
+D 22
+I  12289
+I  9428
+S  8123 false
+I  13704
+S  13739 false
+D 22
+I  9293
+S  9750 true
+D 22
+I  1481
+I  10765
+I  7771
+I  1849
+S  11800 true
+D 22
+I  3786
+S  12838 false
+D 22
+I  2865
+I  14854
+D 22
+I  5634
+I  13483
+D 22
+I  7683
+D 22
+I  13470
+D 22
+I  10649
+I  8245
+D 22
+I  14337
+I  7765
+D 22
+I  4390
+D 22
+I  4883
+S  9890 true
+D 22
+I  4922
+S  7040 true
+I  3186
+D 22
+I  13513
+I  4747
+I  2326
+I  11451
+D 22
+I  10584
+I  9781
+S  2905 true
+I  11558
+S  4108 true
+I  8596
+S  2700 true
+D 22
+I  13346
+I  4843
+D 22
+I  686
+I  11350
+S  3004 false
+I  8646
+S  14668 true
+D 22
+I  1647
+S  5393 true
+I  6829
+S  1075 true
+I  2282
+S  1542 false
+D 22
+I  6268
+S  13870 true
+I  10721
+D 22
+I  1635
+S  2080 true
+D 22
+I  11506
+D 22
+I  10349
+I  7282
+S  8412 true
+I  4681
+S  1555 true
+I  13311
+I  5662
+S  3700 true
+D 22
+I  12905
+S  310 true
+I  5608
+I  11705
+D 22
+I  1980
+I  3398
+S  12461 true
+D 22
+I  5709
+D 22
+I  1301
+D 22
+I  2001
+I  12665
+D 23
+I  2317
+I  12821
+D 23
+I  14229
+D 23
+I  5398
+S  4846 false
+D 23
+I  10371
+S  9661 true
+D 23
+I  4123
+S  480 false
+I  2427
+I  591
+S  5748 true
+D 23
+I  1406
+I  5090
+S  7639 false
+D 23
+I  11534
+I  11454
+I  12489
+I  1642
+S  2344 false
+D 23
+I  13728
+D 23
+I  9197
+S  4777 false
+I  13121
+D 23
+I  795
+I  3871
+I  12586
+I  13381
+S  12939 true
+D 23
+I  10232
+I  5328
+S  11254 false
+D 23
+I  2377
+S  70 false
+D 23
+I  7834
+D 23
+I  8268
+S  2305 true
+I  13542
+D 23
+I  10233
+S  12048 true
+I  1400
+D 23
+I  14971
+D 23
+I  11979
+I  7664
+S  418 false
+I  1465
+I  11879
+S  9374 true
+I  6616
+S  4922 true
+I  857
+D 23
+I  11742
+D 23
+I  5100
+I  9002
+S  13708 true
+D 23
+I  3080
+I  5414
+S  12412 false
+D 23
+I  14588
+S  706 true
+D 23
+I  2217
+D 23
+I  8277
+D 23
+I  8693
+I  1355
+S  11198 false
+I  12743
+S  4456 true
+I  6085
+S  5783 false
+D 23
+I  4148
+D 23
+I  14550
+D 23
+I  11560
+I  12608
+S  9259 false
+D 23
+I  10440
+S  10653 true
+I  4364
+S  48 true
+D 23
+I  3284
+S  4563 false
+D 23
+I  5606
+D 23
+I  5927
+S  3118 false
+D 23
+I  14748
+S  13819 true
+I  13609
+S  11229 false
+D 23
+I  2661
+S  501 true
+I  6099
+S  7442 false
+I  7418
+D 23
+I  13522
+I  10184
+S  13348 true
+D 23
+I  4187
+S  6082 true
+D 23
+I  6405
+S  4544 false
+D 23
+I  6345
+S  1056 false
+I  6412
+S  13004 true
+D 23
+I  3842
+I  1759
+S  4814 true
+I  4477
+S  14161 false
+D 23
+I  5890
+S  4095 false
+D 23
+I  6035
+I  1660
+D 23
+I  4777
+S  8466 false
+I  12989
+S  11648 false
+I  9905
+D 23
+I  12651
+S  7368 true
+D 23
+I  2403
+D 23
+I  9866
+D 23
+I  4461
+I  11565
+S  10958 false
+D 23
+I  2516
+D 23
+I  11733
+S  4541 false
+I  14511
+S  1422 false
+D 23
+I  12705
+D 23
+I  1048
+S  10792 false
+I  770
+S  4771 false
+D 23
+I  11358
+S  3430 false
+D 23
+I  10713
+I  1239
+S  4139 true
+I  10246
+D 23
+I  3472
+I  6477
+S  4129 false
+I  10807
+S  9449 false
+D 23
+I  13761
+S  10584 true
+D 23
+I  9328
+S  3529 false
+D 23
+I  3879
+S  10081 false
+D 23
+I  2586
+S  6046 false
+I  11507
+I  7832
+S  5213 true
+I  12504
+D 23
+I  532
+I  4907
+S  14339 true
+I  10659
+S  5706 false
+D 23
+I  7380
+S  8678 false
+I  9366
+S  2130 true
+I  13102
+D 23
+I  4919
+D 23
+I  3763
+S  9221 true
+D 23
+I  9031
+S  4856 true
+D 23
+I  3417
+S  3795 false
+D 23
+I  3837
+D 23
+I  11187
+D 23
+I  13692
+S  7234 false
+D 23
+I  4795
+S  6668 false
+D 23
+I  3571
+D 23
+I  10124
+I  5281
+S  2894 true
+I  5159
+S  8631 false
+I  5375
+S  459 true
+I  876
+S  12242 false
+D 23
+I  2658
+D 23
+I  11333
+I  8031
+S  5396 false
+I  8148
+S  6188 false
+D 23
+I  5097
+S  2024 false
+I  7358
+D 23
+I  4630
+D 23
+I  6403
+I  10292
+S  10849 false
+I  657
+D 23
+I  319
+D 23
+I  13830
+D 23
+I  14094
+I  14387
+S  8859 false
+D 23
+I  113
+D 23
+I  4623
+S  3150 true
+D 23
+I  9600
+D 23
+I  6697
+I  12920
+S  1715 false
+D 23
+I  13613
+S  11454 true
+D 23
+I  11310
+D 23
+I  636
+I  12564
+D 23
+I  9526
+D 23
+I  3226
+S  13318 true
+I  12265
+S  7496 true
+D 23
+I  9668
+D 23
+I  1583
+I  11942
+I  13468
+I  4862
+S  12917 false
+I  13225
+S  7635 true
+I  3619
+D 23
+I  13335
+S  13694 true
+I  9670
+S  9876 true
+D 23
+I  2636
+S  5920 false
+D 23
+I  3349
+D 23
+I  2024
+I  2580
+S  589 true
+D 23
+I  6046
+D 23
+I  14531
+D 23
+I  12478
+D 23
+I  14513
+S  8054 true
+D 23
+I  6802
+I  13435
+D 23
+I  4766
+D 23
+I  14161
+D 23
+I  1164
+I  3305
+I  14111
+S  2557 false
+D 23
+I  912
+S  2622 false
+I  13052
+D 23
+I  7364
+D 23
+I  7128
+D 23
+I  2443
+S  12506 false
+D 23
+I  8665
+S  2849 false
+I  11970
+D 23
+I  4563
+I  7088
+I  5904
+I  11484
+S  1335 true
+D 23
+I  14977
+D 23
+I  12285
+S  6849 true
+I  5374
+D 23
+I  4704
+I  11251
+S  6185 true
+D 23
+I  6998
+S  7364 true
+I  5396
+D 23
+I  6438
+D 23
+I  315
+I  64
+I  7949
+S  11019 false
+I  2275
+S  7413 false
+D 23
+I  7500
+S  11660 false
+I  4026
+D 23
+I  13392
+S  12247 true
+I  5867
+S  3889 true
+I  11275
+I  9704
+S  6505 true
+D 23
+I  11975
+I  3278
+S  8749 true
+I  3650
+D 23
+I  12344
+I  13323
+I  1579
+S  4095 false
+I  11306
+I  10532
+S  643 false
+I  11984
+S  2283 false
+I  8189
+I  8508
+S  3291 false
+I  14473
+S  6889 true
+I  1659
+S  11453 false
+I  12325
+I  1405
+S  6176 true
+D 23
+I  12305
+D 23
+I  5140
+D 23
+I  2610
+I  13115
+I  13544
+D 23
+I  2209
+D 23
+I  7531
+S  6668 false
+I  1360
+D 23
+I  12248
+D 23
+I  11621
+S  6387 true
+I  11307
+I  10495
+I  7871
+D 23
+I  3430
+I  6198
+D 23
+I  5477
+S  13847 false
+D 23
+I  2678
+D 23
+I  4967
+S  8405 true
+D 23
+I  11623
+D 23
+I  5313
+S  12299 false
+I  2674
+S  3092 false
+I  5423
+S  10752 false
+I  5060
+S  10437 true
+D 23
+I  11812
+D 23
+I  5923
+D 23
+I  8880
+I  3929
+S  12007 false
+I  4639
+D 23
+I  8585
+S  7181 false
+I  2970
+D 23
+I  2481
+S  1825 false
+D 23
+I  253
+S  4760 false
+I  886
+I  9844
+S  4808 false
+D 23
+I  7219
+I  9399
+I  9109
+S  356 false
+I  1723
+I  5646
+D 23
+I  6071
+S  6306 true
+D 23
+I  12258
+D 23
+I  7070
+S  3375 true
+D 23
+I  7144
+I  13641
+S  4541 false
+I  9675
+S  814 true
+D 23
+I  2053
+D 23
+I  3504
+S  8114 false
+I  10844
+S  40 true
+D 23
+I  4094
+I  11223
+S  3480 false
+D 23
+I  9244
+I  11112
+I  5744
+I  14359
+S  6571 false
+I  70
+S  8128 true
+I  11121
+I  4171
+S  11727 false
+I  13518
+D 23
+I  10895
+D 23
+I  12352
+I  9535
+S  1327 false
+I  1297
+I  8605
+S  3673 false
+D 23
+I  10668
+D 23
+I  10106
+S  13194 true
+I  1542
+S  3294 true
+D 23
+I  3652
+I  8022
+D 23
+I  7543
+S  13656 true
+I  12377
+D 23
+I  10103
+S  4915 false
+I  1899
+S  10623 false
+D 23
+I  423
+S  7302 false
+I  9688
+I  9415
+S  5333 false
+D 23
+I  10197
+S  11157 true
+D 23
+I  5917
+S  14617 true
+I  12024
+D 23
+I  859
+S  1887 false
+I  8334
+D 23
+I  13899
+S  10474 false
+D 23
+I  2568
+I  8858
+S  8441 false
+I  7841
+I  4135
+S  13865 false
+I  223
+S  7943 false
+I  4613
+D 23
+I  9606
+D 23
+I  916
+D 23
+I  6852
+D 23
+I  9879
+S  3118 false
+D 23
+I  1652
+S  7460 true
+D 23
+I  1610
+S  14244 false
+D 23
+I  8427
+S  7949 true
+D 23
+I  3034
+D 23
+I  5883
+I  5008
+D 23
+I  12146
+S  11307 true
+I  7092
+S  6766 true
+D 23
+I  13398
+S  12242 false
+D 23
+I  2769
+S  11353 true
+D 23
+I  9240
+S  1247 false
+I  7263
+S  4728 true
+I  5689
+S  7092 true
+I  4622
+I  6679
+I  7823
+D 23
+I  14044
+D 23
+I  7068
+D 23
+I  1321
+D 23
+I  13532
+I  8687
+S  10207 false
+I  9930
+D 23
+I  8691
+S  13719 true
+I  6956
+S  12379 true
+I  14810
+D 23
+I  5826
+S  7282 true
+D 23
+I  9938
+S  10728 false
+D 23
+I  5660
+I  10270
+D 23
+I  14301
+I  12322
+S  1342 false
+D 23
+I  12530
+S  9670 true
+D 23
+I  13299
+D 23
+I  1193
+S  8536 true
+I  5036
+S  10159 false
+I  8992
+I  13555
+I  10207
+D 23
+I  8285
+S  13075 true
+I  4621
+I  9667
+I  8229
+S  1876 true
+D 23
+I  9629
+S  3435 false
+D 23
+I  1134
+S  2202 false
+D 23
+I  1977
+S  4592 false
+D 23
+I  13140
+S  2056 false
+I  966
+S  6215 false
+I  3409
+D 23
+I  13207
+S  12250 false
+D 23
+I  11019
+D 23
+I  9258
+I  3816
+S  14484 false
+D 23
+I  3515
+D 23
+I  8925
+D 23
+I  7656
+I  11146
+S  12865 false
+D 23
+I  1422
+I  5841
+I  8035
+I  4544
+D 23
+I  8238
+S  12543 true
+D 23
+I  6235
+S  13170 true
+I  2051
+D 23
+I  7178
+S  10103 true
+I  10472
+D 23
+I  4191
+S  4277 true
+I  7563
+S  1360 true
+D 23
+I  8738
+I  1047
+I  13630
+S  1986 false
+D 23
+I  13250
+I  11858
+I  986
+D 23
+I  12127
+I  5122
+D 23
+I  2184
+S  5131 false
+D 23
+I  4377
+S  7614 false
+I  12412
+S  1973 false
+I  10821
+S  8671 false
+I  5369
+S  13899 true
+D 23
+I  3744
+D 23
+I  5568
+S  6071 true
+I  12420
+S  10503 false
+I  861
+S  11506 true
+D 23
+I  6546
+S  10699 true
+I  14149
+S  2151 false
+I  13762
+S  5374 true
+I  8457
+D 23
+I  2040
+D 23
+I  11383
+S  12830 false
+I  10154
+S  9504 true
+I  4489
+D 23
+I  5839
+I  2333
+I  3734
+S  13557 false
+I  8126
+I  11603
+S  10207 true
+I  785
+S  11518 true
+I  9446
+S  166 false
+D 23
+I  13782
+I  3431
+D 23
+I  8123
+D 23
+I  14463
+S  7909 false
+D 23
+I  12205
+S  4264 false
+I  664
+S  13902 true
+I  1978
+S  8008 true
+I  12084
+S  12863 true
+I  4410
+D 23
+I  6227
+S  2934 false
+I  6188
+I  12610
+S  9440 false
+D 23
+I  14368
+S  8858 true
+I  9786
+D 23
+I  3944
+S  5034 true
+I  951
+D 23
+I  4526
+D 23
+I  7512
+S  12965 false
+I  10271
+S  9739 false
+I  356
+D 23
+I  6747
+S  503 true
+I  8526
+D 23
+I  7915
+I  4761
+I  3877
+D 23
+I  3817
+D 23
+I  4162
+S  3528 true
+I  5347
+S  10330 true
+D 23
+I  10911
+S  8605 true
+I  2864
+S  566 true
+I  3529
+D 23
+I  5193
+I  2231
+S  14662 true
+I  12949
+S  4856 true
+D 23
+I  2557
+S  3673 false
+I  168
+S  5165 true
+I  992
+D 23
+I  10198
+I  14151
+D 23
+I  13377
+I  2873
+I  1247
+S  6834 true
+I  1777
+I  5128
+S  8293 false
+D 23
+I  11591
+I  10535
+S  10631 true
+I  2743
+I  10462
+I  1432
+D 23
+I  3442
+D 23
+I  3110
+S  10472 true
+I  1794
+D 23
+I  1412
+S  11383 true
+I  5864
+S  10789 false
+D 23
+I  6294
+D 23
+I  1345
+S  12940 true
+D 23
+I  1543
+I  6449
+S  4191 true
+D 23
+I  8363
+I  9092
+S  9526 true
+D 23
+I  3296
+S  5347 true
+D 23
+I  5352
+S  2727 false
+D 23
+I  3496
+S  12781 false
+I  7113
+I  9533
+I  2598
+D 23
+I  4079
+S  6722 false
+D 23
+I  5727
+S  5303 false
+D 23
+I  3004
+D 23
+I  745
+S  6287 true
+D 23
+I  1650
+S  14940 false
+D 23
+I  4047
+S  12023 false
+D 23
+I  5256
+I  83
+I  10019
+I  13138
+I  11478
+S  7389 true
+I  9288
+S  14368 true
+D 23
+I  5554
+I  5633
+I  3952
+S  9447 false
+D 23
+I  14436
+D 23
+I  10251
+D 23
+I  2141
+I  12700
+D 23
+I  464
+S  12445 false
+I  2463
+D 23
+I  4246
+S  7843 true
+I  12299
+I  10618
+I  12768
+S  12048 true
+D 23
+I  5402
+S  10645 false
+I  13533
+S  2113 true
+D 23
+I  9484
+S  9073 false
+I  12838
+I  9964
+D 23
+I  7916
+S  13194 true
+I  4041
+I  14311
+S  11215 true
+D 23
+I  3165
+D 23
+I  6814
+S  1291 true
+I  4238
+I  2025
+S  5819 false
+I  9524
+D 23
+I  2622
+S  8272 false
+I  7287
+I  1327
+S  13679 true
+I  11701
+I  1795
+S  2849 false
+D 23
+I  5207
+I  12250
+D 23
+I  14552
+D 23
+I  481
+S  8569 false
+I  987
+S  5225 false
+D 23
+I  13821
+I  6376
+D 23
+I  13129
+I  7431
+S  2894 true
+I  856
+I  3666
+I  12985
+S  3284 true
+D 23
+I  1167
+S  14397 false
+I  3813
+D 23
+I  4740
+S  12933 false
+D 23
+I  5287
+S  9992 true
+I  8230
+S  9186 false
+D 23
+I  803
+D 23
+I  5647
+S  7543 true
+I  3606
+S  4364 true
+D 23
+I  12918
+D 23
+I  4724
+S  2020 true
+I  8781
+S  1794 true
+I  13382
+I  991
+I  14046
+D 23
+I  4781
+I  13067
+S  6592 true
+I  5626
+D 23
+I  7982
+S  9759 false
+D 23
+I  13267
+S  6188 true
+I  2388
+S  3666 true
+D 23
+I  8994
+S  11908 true
+I  10609
+I  10059
+I  5513
+I  2981
+S  5341 false
+I  14634
+S  13435 true
+D 23
+I  8831
+D 23
+I  13430
+D 23
+I  4120
+S  6009 true
+I  11440
+D 23
+I  5257
+S  1984 true
+I  14145
+I  8700
+S  939 false
+I  7438
+S  14431 false
+D 23
+I  8713
+S  8271 false
+D 23
+I  4913
+S  8858 true
+D 23
+I  10781
+D 23
+I  14289
+I  1198
+S  13470 true
+D 23
+I  11225
+S  13465 false
+D 23
+I  10840
+I  9915
+S  6850 true
+D 23
+I  8631
+I  9000
+I  647
+S  6358 true
+D 23
+I  934
+S  3027 true
+D 23
+I  3795
+S  1944 true
+D 23
+I  11249
+D 23
+I  3030
+S  6829 true
+I  14875
+I  1188
+I  14592
+S  3008 false
+D 23
+I  9025
+S  8540 true
+D 23
+I  8846
+S  13004 true
+D 23
+I  7639
+S  9374 true
+I  3654
+S  9840 true
+I  3031
+I  8040
+S  8034 false
+D 23
+I  4588
+D 23
+I  9173
+I  14184
+D 23
+I  3072
+I  1661
+S  12773 false
+D 23
+I  13383
+D 23
+I  8466
+D 23
+I  2817
+S  6964 true
+D 23
+I  3977
+S  14763 true
+D 23
+I  4541
+S  12546 false
+D 23
+I  1172
+S  9930 true
+D 23
+I  2601
+S  4235 true
+I  3215
+S  9027 true
+I  10157
+S  12973 true
+D 23
+I  468
+S  13679 true
+I  1348
+D 23
+I  7097
+D 23
+I  13742
+S  6479 true
+I  7734
+D 23
+I  652
+D 23
+I  11308
+I  5273
+S  11565 true
+I  160
+S  11635 false
+D 23
+I  6391
+D 23
+I  2913
+I  13228
+I  4789
+S  4391 false
+D 23
+I  4027
+D 23
+I  6676
+I  1111
+S  10480 false
+D 23
+I  2441
+I  7663
+D 23
+I  332
+D 23
+I  10849
+D 23
+I  14039
+S  12248 true
+D 23
+I  12351
+I  9073
+S  11661 false
+I  4054
+D 23
+I  4549
+I  3238
+I  4525
+D 23
+I  1342
+S  72 false
+D 23
+I  4876
+D 23
+I  9897
+S  8272 false
+D 23
+I  11480
+I  7686
+S  68 true
+D 23
+I  2965
+D 23
+I  14609
+S  13339 false
+D 23
+I  12384
+S  3723 true
+I  7929
+S  9696 false
+D 23
+I  7447
+I  2384
+S  8045 true
+I  5219
+S  5571 false
+D 23
+I  7999
+S  13614 true
+I  9691
+S  2727 false
+D 23
+I  6110
+S  3 true
+I  10159
+S  240 false
+I  693
+D 23
+I  618
+S  12182 false
+D 23
+I  13401
+S  11073 true
+D 23
+I  5426
+S  5222 true
+D 23
+I  10431
+S  5530 false
+I  7302
+I  9223
+S  8742 true
+D 23
+I  13984
+S  13849 true
+I  2132
+S  14894 false
+D 23
+I  8881
+D 23
+I  10076
+S  3468 false
+I  13163
+S  7617 false
+I  1821
+S  2306 true
+D 23
+I  11895
+S  3763 true
+I  3070
+S  7612 false
+D 23
+I  13187
+S  4825 false
+D 23
+I  1180
+I  3095
+S  12949 true
+D 23
+I  4056
+D 23
+I  6043
+S  10794 true
+D 23
+I  10274
+S  64 true
+I  445
+D 23
+I  7087
+I  11804
+S  9498 false
+D 23
+I  6442
+S  7734 true
+I  12868
+S  23 false
+I  480
+S  12435 false
+I  2596
+I  9721
+I  12995
+I  11182
+S  10364 true
+D 23
+I  13149
+S  1608 false
+D 23
+I  14895
+S  10044 false
+D 23
+I  10862
+S  5910 false
+I  14741
+D 23
+I  2161
+S  9081 false
+I  11345
+S  14646 false
+D 23
+I  5322
+S  3294 true
+I  14566
+S  14229 true
+I  8293
+S  4922 true
+I  7472
+S  6163 true
+D 23
+I  3402
+S  2873 true
+D 23
+I  4637
+D 23
+I  6768
+S  13021 false
+D 23
+I  10902
+S  321 false
+D 23
+I  3350
+D 23
+I  2859
+S  4777 true
+D 23
+I  14788
+D 23
+I  14912
+S  8625 false
+D 23
+I  9259
+I  11643
+D 23
+I  3673
+D 23
+I  567
+S  629 false
+D 23
+I  1834
+S  7905 true
+D 23
+I  8728
+D 23
+I  14410
+S  14552 true
+D 23
+I  5561
+D 23
+I  14244
+I  12830
+S  2080 true
+I  11937
+S  629 false
+I  7943
+S  12107 false
+D 23
+I  11648
+D 23
+I  8918
+D 23
+I  9515
+S  10652 true
+I  2376
+S  5374 true
+I  4914
+S  12652 false
+D 23
+I  4150
+S  10491 false
+D 23
+I  241
+S  11243 false
+I  5861
+D 23
+I  4852
+I  6856
+S  8749 true
+D 23
+I  12591
+S  10669 false
+D 23
+I  960
+D 23
+I  1965
+S  6947 false
+D 23
+I  2283
+D 23
+I  6128
+S  723 false
+I  14750
+S  12649 false
+I  8239
+D 23
+I  13282
+I  1973
+S  8493 true
+D 23
+I  7668
+S  9211 false
+D 23
+I  949
+I  9763
+S  13648 false
+I  5303
+D 23
+I  4234
+D 23
+I  6042
+I  8517
+S  6784 false
+I  1098
+D 23
+I  14879
+I  4032
+I  6665
+D 23
+I  12965
+S  12684 false
+I  9060
+S  8054 true
+D 23
+I  643
+S  6727 true
+I  2202
+S  577 true
+I  1653
+S  8540 true
+D 23
+I  10908
+S  2973 true
+I  14527
+S  3018 true
+I  9090
+D 23
+I  3042
+S  840 true
+D 23
+I  4667
+S  8159 true
+I  3395
+S  8412 true
+D 23
+I  5359
+S  12743 true
+D 23
+I  8078
+S  7214 false
+D 23
+I  10409
+I  9172
+D 23
+I  11727
+D 23
+I  2201
+S  2090 false
+D 23
+I  7442
+S  14659 true
+I  11079
+I  4870
+S  8189 true
+D 23
+I  9260
+I  689
+I  14904
+S  13127 false
+D 23
+I  11553
+D 23
+I  5550
+I  3957
+I  9473
+D 23
+I  13127
+I  5785
+S  11069 true
+D 23
+I  12843
+S  5145 true
+I  14520
+D 23
+I  13739
+S  7704 true
+I  8609
+I  12874
+S  8497 false
+D 23
+I  14205
+I  6293
+S  1591 false
+I  2862
+S  5589 true
+I  7992
+S  7551 false
+I  9532
+S  6422 false
+I  5332
+S  1353 false
+I  13083
+I  8600
+S  9981 true
+I  6388
+S  14906 true
+I  12469
+S  3506 false
+D 23
+I  10548
+S  8942 false
+I  8847
+D 23
+I  1734
+S  4528 true
+D 23
+I  7065
+S  9892 false
+I  633
+S  9187 false
+D 23
+I  7004
+I  10950
+I  1853
+I  10163
+S  4739 false
+I  13426
+I  2404
+S  11148 false
+I  7250
+D 23
+I  10352
+D 23
+I  6194
+D 23
+I  7234
+I  846
+I  10028
+D 23
+I  4391
+S  10284 true
+I  10096
+D 23
+I  4498
+S  2636 true
+I  10408
+S  11109 true
+I  10925
+D 23
+I  12787
+S  11553 true
+I  6713
+S  4765 false
+D 23
+I  4076
+S  11308 true
+I  10675
+S  6946 false
+I  9430
+S  10333 false
+D 23
+I  1877
+I  5691
+S  13778 true
+I  3522
+D 23
+I  5783
+S  3303 true
+I  6805
+S  1834 true
+D 23
+I  558
+D 23
+I  13924
+D 23
+I  10789
+D 23
+I  5425
+S  14 false
+D 23
+I  7830
+S  591 true
+I  600
+S  5038 false
+D 23
+I  13922
+I  13400
+S  5779 false
+I  12945
+S  13129 true
+D 23
+I  3243
+I  12422
+S  6412 true
+D 23
+I  12798
+I  10496
+S  5646 true
+D 23
+I  12957
+S  9526 true
+I  5292
+I  2128
+S  12694 false
+I  7163
+I  9179
+S  11895 true
+D 23
+I  11607
+S  7010 false
+D 23
+I  6603
+S  4795 true
+I  1862
+S  6785 false
+D 23
+I  7458
+S  414 false
+D 23
+I  4990
+D 23
+I  11339
+D 23
+I  13066
+I  5152
+S  5867 true
+I  10206
+S  4724 true
+I  5963
+I  13022
+D 23
+I  12914
+I  12784
+S  10679 true
+D 23
+I  1059
+D 23
+I  4095
+I  1293
+S  9957 false
+D 23
+I  10426
+S  991 true
+I  5732
+S  4708 true
+I  3297
+D 23
+I  1078
+D 23
+I  2849
+S  536 false
+I  12917
+I  7860
+I  3464
+S  6276 true
+I  11660
+I  12415
+D 23
+I  3521
+D 23
+I  10013
+S  3619 true
+I  8616
+I  1439
+S  11623 true
+D 23
+I  7229
+D 23
+I  12781
+I  8694
+S  9081 false
+D 23
+I  8814
+S  13513 true
+I  553
+D 23
+I  9075
+S  7472 true
+I  2344
+S  6376 true
+I  6518
+D 23
+I  5679
+S  14158 false
+I  2280
+S  6972 true
+I  1197
+D 23
+I  3590
+S  1977 true
+I  11214
+S  14948 false
+I  8800
+I  669
+S  10264 false
+I  10569
+S  790 false
+I  11793
+S  414 false
+D 23
+I  14300
+S  10220 false
+D 23
+I  14852
+D 23
+I  11902
+D 23
+I  6724
+D 23
+I  2090
+S  7040 true
+I  14357
+S  7132 false
+D 23
+I  4711
+S  9374 true
+D 23
+I  504
+S  10005 true
+I  9877
+I  11302
+S  6203 true
+D 23
+I  12540
+S  4093 true
+I  1571
+D 23
+I  1056
+S  13762 true
+I  6215
+I  3055
+I  13610
+S  3734 true
+D 23
+I  14657
+S  11453 false
+I  7701
+I  4727
+S  9966 false
+I  9715
+D 23
+I  11723
+I  8389
+S  10699 true
+I  14631
+I  10363
+S  3048 false
+I  8497
+I  12007
+I  7502
+S  5284 false
+D 23
+I  12425
+D 23
+I  1757
+D 23
+I  13365
+S  14621 false
+D 23
+I  10921
+I  3959
+I  9265
+D 23
+I  2444
+S  12473 false
+D 23
+I  5671
+S  4643 true
+D 23
+I  13667
+S  10008 true
+I  14831
+S  623 false
+D 23
+I  4262
+D 23
+I  13538
+S  1314 false
+I  4650
+S  12082 true
+I  7430
+S  3484 false
+I  4771
+S  11747 false
+I  5493
+S  1785 false
+I  9211
+S  6571 false
+I  6187
+I  2524
+S  4844 false
+D 23
+I  9147
+S  13461 false
+D 23
+I  4734
+D 23
+I  4482
+I  1018
+D 23
+I  2486
+D 23
+I  6162
+D 23
+I  12280
+S  7080 true
+D 23
+I  12366
+S  9881 false
+I  12855
+D 23
+I  11378
+D 23
+I  5609
+I  8904
+I  9165
+S  5783 true
+D 23
+I  10069
+S  2424 false
+I  3753
+S  5910 false
+I  5706
+S  3215 true
+D 23
+I  6754
+D 23
+I  14569
+D 23
+I  14997
+I  4392
+I  11635
+S  10908 true
+I  2944
+D 23
+I  14646
+I  9367
+D 23
+I  5876
+I  10752
+S  11037 true
+I  12576
+S  6010 false
+I  7880
+D 23
+I  5227
+D 23
+I  946
+S  6914 false
+I  7754
+S  1327 true
+I  3026
+S  58 false
+D 23
+I  11832
+S  5557 true
+D 23
+I  12524
+D 23
+I  4291
+S  8327 true
+D 23
+I  6532
+S  8491 false
+D 23
+I  9339
+S  1291 true
+D 23
+I  7214
+D 23
+I  10937
+I  5131
+D 23
+I  2934
+I  13585
+S  9454 false
+I  5488
+I  1558
+I  4547
+S  3291 false
+I  3041
+S  87 false
+I  3480
+I  4565
+S  11979 true
+D 23
+I  3881
+D 23
+I  3708
+D 23
+I  5614
+I  1214
+I  7522
+D 23
+I  8761
+S  14485 false
+D 23
+I  9458
+S  9102 false
+I  9081
+S  3879 true
+D 23
+I  3874
+D 23
+I  10010
+I  5787
+D 23
+I  13394
+S  13847 false
+D 23
+I  8741
+S  4727 true
+I  880
+S  6744 true
+I  7248
+S  3834 false
+I  6478
+I  509
+S  10333 false
+D 23
+I  1852
+S  13470 true
+D 23
+I  11198
+S  9031 true
+D 23
+I  7423
+S  12469 true
+D 23
+I  13635
+D 23
+I  680
+D 23
+I  2255
+D 23
+I  11217
+S  2005 false
+D 23
+I  5703
+D 23
+I  9548
+D 23
+I  14524
+I  11672
+I  13164
+S  11173 false
+D 23
+I  616
+I  12933
+S  10011 false
+I  1999
+I  4505
+I  12653
+D 23
+I  14246
+S  7780 false
+I  14660
+D 23
+I  14745
+D 23
+I  4936
+I  6039
+S  4844 false
+D 23
+I  8271
+D 23
+I  8859
+I  14412
+D 23
+I  11064
+D 23
+I  9885
+S  13401 true
+I  12932
+D 23
+I  8319
+I  14196
+I  10510
+S  9399 true
+D 23
+I  3405
+D 23
+I  1755
+D 23
+I  9360
+D 23
+I  1166
+I  5333
+S  8680 true
+D 23
+I  11031
+I  3960
+S  2978 false
+I  4916
+S  1164 true
+D 23
+I  1177
+S  13882 false
+D 23
+I  11155
+S  2038 false
+I  177
+S  7283 true
+I  1898
+S  715 false
+I  3593
+S  12506 false
+I  8678
+D 23
+I  13519
+S  8015 false
+I  12773
+I  4519
+S  1944 true
+D 23
+I  1312
+D 23
+I  2958
+D 23
+I  9617
+S  11743 true
+D 23
+I  1678
+D 23
+I  9250
+D 23
+I  6767
+S  4519 true
+D 23
+I  5074
+S  11979 true
+D 23
+I  9338
+I  10392
+D 23
+I  8484
+S  3652 true
+D 23
+I  623
+D 23
+I  7590
+D 23
+I  2304
+D 23
+I  11696
+S  14587 false
+I  3618
+S  1210 true
+D 23
+I  2092
+S  10184 true
+D 23
+I  4159
+D 23
+I  3747
+I  3199
+S  13506 true
+I  5243
+S  10042 false
+D 23
+I  9323
+S  589 true
+D 23
+I  5361
+S  1942 false
+D 24
+I  13914
+S  7635 true
+I  1343
+S  577 true
+D 24
+I  6108
+S  215 true
+I  341
+S  13893 true
+I  9892
+S  13463 true
+D 24
+I  2606
+S  7132 false
+D 24
+I  2708
+D 24
+I  10868
+S  10360 true
+I  9102
+D 24
+I  14783
+I  8995
+S  12735 true
+D 24
+I  12238
+I  8071
+S  14145 true
+D 24
+I  3454
+S  4259 true
+D 24
+I  6245
+S  8876 false
+I  12365
+S  9455 false
+D 24
+I  3118
+I  5869
+S  1042 false
+D 24
+I  2726
+I  1600
+S  4325 false
+D 24
+I  6386
+S  8128 true
+D 24
+I  11913
+D 24
+I  27
+S  2350 true
+D 24
+I  2511
+S  9759 false
+I  227
+I  4915
+I  1887
+D 24
+I  5413
+S  11900 false
+I  6571
+I  9066
+S  1352 true
+D 24
+I  9105
+S  5140 true
+I  2537
+D 24
+I  7273
+I  4773
+S  3639 false
+I  11526
+S  6759 false
+D 24
+I  214
+S  13563 false
+I  8066
+D 24
+I  11976
+S  3968 false
+I  870
+S  3435 false
+D 24
+I  14059
+S  13569 true
+D 24
+I  13009
+S  5721 true
+D 24
+I  7600
+D 24
+I  13617
+S  12387 true
+D 24
+I  2421
+I  2164
+S  9478 false
+I  4741
+I  7986
+S  3713 false
+D 24
+I  10053
+D 24
+I  3327
+S  14997 true
+I  2411
+I  12442
+S  1764 true
+I  5750
+I  12242
+S  8358 true
+I  3013
+I  2408
+D 24
+I  4867
+D 24
+I  7764
+D 24
+I  10275
+I  7570
+D 24
+I  14034
+S  6830 true
+D 24
+I  14898
+I  13314
+S  13268 true
+D 24
+I  1417
+S  12482 false
+I  5538
+D 24
+I  7614
+S  693 true
+I  9235
+S  10792 false
+D 24
+I  14770
+D 24
+I  11661
+D 24
+I  8231
+I  2776
+I  10293
+I  1534
+S  241 true
+I  3038
+S  8318 false
+I  3157
+D 24
+I  1330
+S  1610 true
+I  10826
+S  13161 false
+D 24
+I  3339
+D 24
+I  11788
+I  13021
+I  12733
+S  9549 false
+D 24
+I  7016
+S  4519 true
+D 24
+I  889
+D 24
+I  14887
+D 24
+I  1825
+I  10070
+S  10694 false
+D 24
+I  8832
+D 24
+I  1938
+S  9172 true
+D 24
+I  12430
+S  12908 false
+I  13814
+S  11270 true
+I  970
+D 24
+I  1692
+S  14028 true
+I  4944
+I  4237
+S  160 true
+I  11354
+S  12905 true
+D 24
+I  4753
+S  817 false
+D 24
+I  14498
+D 24
+I  12144
+D 24
+I  8339
+D 24
+I  12453
+S  10152 true
+D 24
+I  4470
+I  5341
+S  11760 false
+D 24
+I  10860
+D 24
+I  10557
+D 24
+I  7900
+D 24
+I  13885
+D 24
+I  539
+D 24
+I  8625
+S  777 false
+I  6394
+S  13415 false
+D 24
+I  5464
+I  394
+D 24
+I  9567
+S  13716 false
+D 24
+I  422
+I  14894
+I  10287
+S  10392 true
+I  9881
+D 24
+I  11224
+S  1837 true
+I  1026
+D 24
+I  7647
+S  12365 true
+I  12992
+I  6373
+S  378 false
+D 24
+I  12083
+S  661 false
+I  2136
+S  2631 true
+I  5819
+S  12552 false
+D 24
+I  9279
+I  3980
+D 24
+I  12736
+S  6308 false
+D 24
+I  12298
+I  3725
+I  9404
+D 24
+I  3436
+D 24
+I  696
+D 24
+I  10851
+S  322 true
+I  3223
+S  9938 true
+D 24
+I  289
+I  9824
+I  13111
+D 24
+I  11374
+D 24
+I  14805
+S  1709 false
+I  12237
+S  1909 true
+D 24
+I  9860
+S  5213 true
+I  4198
+S  10031 true
+D 24
+I  13636
+D 24
+I  12256
+S  2116 true
+D 24
+I  520
+S  11809 true
+I  11008
+S  9410 true
+D 24
+I  3196
+I  12371
+D 24
+I  13205
+I  1677
+I  11674
+D 24
+I  418
+S  1267 false
+I  1524
+S  8847 true
+I  8592
+D 24
+I  9768
+D 24
+I  6668
+S  3220 true
+D 24
+I  1627
+D 24
+I  10634
+I  7095
+S  6616 true
+I  7669
+D 24
+I  6832
+S  3957 true
+D 24
+I  755
+S  6202 true
+D 24
+I  11488
+D 24
+I  6917
+S  3205 false
+I  5886
+D 24
+I  12620
+D 24
+I  9921
+D 24
+I  11009
+I  12435
+S  10230 false
+I  460
+S  13495 true
+D 24
+I  8136
+D 24
+I  8973
+D 24
+I  4318
+S  7394 false
+D 24
+I  14940
+S  9108 true
+D 24
+I  11229
+I  11620
+S  4971 false
+I  8264
+D 24
+I  5459
+S  8505 false
+I  1790
+S  12238 true
+D 24
+I  14324
+I  10264
+I  1584
+S  11328 false
+D 24
+I  2289
+D 24
+I  14973
+S  9179 true
+I  14343
+S  5353 true
+I  6947
+D 24
+I  2681
+S  652 true
+I  11072
+D 24
+I  6492
+D 24
+I  6152
+I  89
+S  10154 true
+D 24
+I  4994
+S  11456 false
+D 24
+I  14995
+I  4807
+I  13959
+I  7466
+S  207 true
+D 24
+I  8114
+S  9516 true
+I  2855
+I  4979
+I  875
+D 24
+I  3092
+S  4994 true
+D 24
+I  11142
+I  10011
+D 24
+I  266
+I  1969
+I  12012
+S  6168 false
+I  6441
+S  4243 false
+I  11254
+S  13435 true
+I  10650
+S  13294 true
+D 24
+I  11173
+D 24
+I  492
+S  340 false
+D 24
+I  5068
+D 24
+I  1942
+S  13733 true
+I  12684
+S  4689 false
+D 24
+I  12783
+S  5322 true
+I  7324
+S  12663 true
+D 24
+I  14443
+S  7346 false
+D 24
+I  12594
+S  1065 true
+D 24
+I  3906
+D 24
+I  6424
+I  3790
+S  12170 false
+I  72
+S  11740 false
+D 24
+I  2125
+S  1777 true
+D 24
+I  4834
+S  5891 false
+D 24
+I  240
+D 24
+I  11216
+D 24
+I  6666
+S  13694 true
+D 24
+I  14294
+D 24
+I  11023
+D 24
+I  9084
+D 24
+I  4592
+S  5790 false
+D 24
+I  4144
+D 24
+I  5461
+D 24
+I  4846
+S  13467 false
+I  13817
+S  13860 false
+I  1634
+D 24
+I  2203
+I  8166
+S  849 false
+I  2185
+I  247
+S  3626 true
+I  7628
+D 24
+I  14542
+S  3056 false
+I  7181
+D 24
+I  10380
+I  10093
+S  8484 true
+I  14715
+I  4651
+D 24
+I  14485
+S  8541 false
+D 24
+I  8211
+I  12174
+S  11897 false
+I  2385
+S  11008 true
+D 24
+I  13408
+S  7028 false
+I  7666
+S  13190 true
+I  13882
+I  5478
+S  11428 false
+D 24
+I  3484
+D 24
+I  4164
+S  12809 false
+I  10372
+S  134 false
+D 24
+I  13671
+S  12847 false
+D 24
+I  9349
+I  3206
+S  9436 true
+I  3803
+D 24
+I  2124
+S  1534 true
+D 24
+I  817
+D 24
+I  8908
+I  13743
+S  4349 false
+D 24
+I  13355
+S  12473 false
+D 24
+I  1353
+S  13224 false
+I  3605
+D 24
+I  5381
+D 24
+I  8898
+I  10912
+S  12390 false
+I  5223
+I  4878
+S  5495 false
+D 24
+I  14182
+D 24
+I  7413
+D 24
+I  1538
+I  8997
+D 24
+I  11875
+S  7711 false
+I  5737
+D 24
+I  10474
+S  13414 false
+D 24
+I  44
+S  13769 false
+I  12170
+D 24
+I  7800
+S  8654 false
+D 24
+I  12600
+I  7645
+I  10175
+D 24
+I  8978
+D 24
+I  7179
+S  4735 false
+I  11419
+S  460 true
+D 24
+I  9164
+I  7145
+D 24
+I  13064
+S  10193 true
+D 24
+I  6366
+D 24
+I  5530
+D 24
+I  8686
+S  957 true
+I  4765
+S  591 true
+I  11441
+I  4745
+D 24
+I  13724
+I  11952
+D 24
+I  9441
+S  11115 false
+I  5483
+I  6882
+S  13445 false
+D 24
+I  947
+S  9786 true
+D 24
+I  9709
+D 24
+I  2612
+S  8352 true
+D 24
+I  1451
+D 24
+I  5450
+S  6232 false
+D 24
+I  3543
+S  3506 false
+D 24
+I  10485
+S  8997 true
+I  4647
+I  10617
+I  4373
+D 24
+I  2707
+S  3567 false
+D 24
+I  12459
+I  14951
+D 24
+I  2920
+D 24
+I  13363
+S  7418 true
+I  9780
+D 24
+I  12434
+I  5571
+S  3647 false
+D 24
+I  3056
+S  1614 false
+I  11453
+S  10686 true
+I  9449
+S  2960 false
+I  8222
+S  1794 true
+D 24
+I  5910
+S  7137 false
+D 24
+I  9849
+D 24
+I  6579
+I  4418
+S  2286 false
+D 24
+I  9973
+S  10343 false
+D 24
+I  10792
+S  1605 false
+D 24
+I  519
+S  13441 true
+I  4129
+S  9807 true
+D 24
+I  8654
+I  4760
+S  9020 false
+I  6591
+S  4897 false
+D 24
+I  106
+S  5746 false
+I  676
+D 24
+I  1662
+S  12412 true
+I  9321
+S  13392 true
+D 24
+I  10164
+S  14082 false
+D 24
+I  3325
+S  1635 true
+I  11916
+I  14985
+I  12228
+S  11819 false
+D 24
+I  10531
+I  8492
+I  10958
+D 24
+I  3063
+I  14720
+D 24
+I  6527
+D 24
+I  3435
+S  5612 false
+D 24
+I  3545
+S  9606 true
+I  4782
+S  12908 false
+D 24
+I  352
+I  13283
+I  10081
+S  14183 false
+I  386
+S  13899 true
+D 24
+I  6946
+S  420 true
+D 24
+I  3357
+I  7072
+I  13150
+I  8805
+S  5646 true
+D 24
+I  1715
+I  1819
+S  105 false
+D 24
+I  14795
+S  8808 false
+D 24
+I  4986
+D 24
+I  13459
+S  553 true
+D 24
+I  11787
+S  9349 true
+I  3291
+S  83 true
+I  2152
+S  7287 true
+I  9505
+S  10306 true
+D 24
+I  8722
+I  13847
+D 24
+I  5547
+D 24
+I  2413
+S  441 true
+I  4535
+S  9380 true
+I  10728
+I  6575
+D 24
+I  3575
+S  10024 false
+I  6446
+S  1293 true
+D 24
+I  522
+S  8430 true
+I  11329
+I  5167
+S  7464 false
+D 24
+I  7359
+I  13586
+S  12852 false
+D 24
+I  12486
+I  4077
+I  7727
+D 24
+I  3885
+I  13678
+I  4808
+I  12277
+S  14921 false
+D 24
+I  10370
+S  640 true
+I  4648
+S  1465 true
+I  6093
+D 24
+I  12813
+D 24
+I  10803
+I  3191
+S  8508 true
+I  9929
+S  10502 false
+D 24
+I  14669
+S  6074 true
+D 24
+I  6510
+D 24
+I  10805
+D 24
+I  6914
+D 24
+I  378
+I  2424
+S  6237 false
+I  6455
+S  3929 true
+I  1896
+I  7893
+S  5533 true
+D 24
+I  5845
+D 24
+I  7386
+S  4551 false
+I  12235
+D 24
+I  14280
+S  12294 false
+D 24
+I  11456
+D 24
+I  11802
+S  4216 true
+D 24
+I  14960
+I  9869
+I  4735
+D 24
+I  924
+S  4862 true
+D 24
+I  7852
+D 24
+I  30
+S  1762 false
+D 24
+I  13548
+D 24
+I  13970
+I  5920
+D 24
+I  12201
+S  9132 false
+D 24
+I  14618
+S  2429 false
+D 24
+I  3424
+D 24
+I  12050
+S  14002 false
+D 24
+I  10592
+D 24
+I  8397
+D 24
+I  1629
+D 24
+I  5201
+S  3837 true
+I  4219
+I  13422
+D 24
+I  8667
+S  1239 true
+I  13865
+S  9781 true
+D 24
+I  12295
+D 24
+I  13578
+D 24
+I  14526
+S  12815 true
+I  10622
+S  10973 true
+D 24
+I  10623
+S  10277 false
+D 24
+I  7813
+D 24
+I  8803
+I  6670
+I  3948
+D 24
+I  4730
+S  11879 true
+I  14484
+S  4092 false
+D 24
+I  12023
+I  13568
+S  4555 true
+I  8102
+D 24
+I  11964
+S  5413 true
+D 24
+I  10487
+D 24
+I  13088
+D 24
+I  7030
+S  10753 true
+D 24
+I  12851
+I  13810
+I  4140
+S  832 false
+D 24
+I  13465
+S  10574 true
+D 24
+I  3994
+D 24
+I  7419
+I  5782
+S  6348 false
+D 24
+I  6489
+S  5320 true
+D 24
+I  5779
+I  402
+D 24
+I  14426
+S  3099 false
+D 24
+I  12624
+D 24
+I  6407
+D 24
+I  8063
+S  1662 true
+D 24
+I  11348
+I  3180
+S  3291 true
+D 24
+I  6953
+I  303
+D 24
+I  7837
+S  13583 true
+I  9947
+D 24
+I  3834
+I  14923
+S  3605 true
+I  673
+S  3430 true
+D 24
+I  2151
+S  2545 true
+D 24
+I  3213
+I  7814
+D 24
+I  8628
+S  5612 false
+D 24
+I  9799
+I  10024
+S  4202 false
+D 24
+I  7316
+S  5423 true
+D 24
+I  9815
+S  9780 true
+I  2548
+D 24
+I  9161
+D 24
+I  7719
+S  2964 true
+D 24
+I  13573
+S  7146 true
+I  316
+I  13224
+S  681 false
+D 24
+I  11636
+S  6754 true
+D 24
+I  6548
+D 24
+I  7426
+I  4825
+I  11626
+S  3504 true
+I  7721
+I  8853
+I  10519
+I  7909
+D 24
+I  4836
+S  12973 true
+I  956
+D 24
+I  5718
+S  13572 false
+D 24
+I  3204
+S  9203 false
+D 24
+I  3570
+S  11617 false
+D 24
+I  3459
+S  247 true
+I  12036
+S  6391 true
+D 24
+I  14096
+I  12291
+S  11341 false
+I  5790
+S  8764 false
+I  7693
+S  6177 true
+D 24
+I  12211
+S  12690 true
+I  3601
+D 24
+I  10276
+I  7681
+I  376
+S  405 false
+I  12039
+S  6389 false
+I  12506
+D 24
+I  2056
+S  13667 true
+I  23
+S  10206 true
+I  10899
+I  3377
+S  12228 true
+D 24
+I  2193
+I  7483
+S  11757 false
+D 24
+I  13437
+D 24
+I  10876
+D 24
+I  2637
+S  14328 false
+D 24
+I  11966
+D 24
+I  7415
+S  2637 true
+I  534
+S  3454 true
+D 24
+I  13226
+D 24
+I  1015
+S  7670 false
+D 24
+I  8272
+S  14493 false
+I  14533
+D 24
+I  1114
+S  978 true
+D 24
+I  2832
+S  241 true
+I  67
+D 24
+I  1947
+D 24
+I  5327
+I  3008
+D 24
+I  13807
+D 24
+I  3695
+S  1174 false
+I  6313
+I  1817
+S  8739 false
+I  14871
+S  4809 true
+D 24
+I  3251
+S  1586 true
+D 24
+I  2008
+S  1528 false
+D 24
+I  13710
+S  1026 true
+D 24
+I  11757
+D 24
+I  4069
+D 24
+I  4233
+S  2230 true
+I  11697
+S  1512 true
+D 24
+I  7885
+I  10030
+S  4916 true
+D 24
+I  14333
+D 24
+I  1703
+D 24
+I  2005
+D 24
+I  10480
+S  12564 true
+I  6453
+D 24
+I  5293
+S  13667 true
+I  166
+D 24
+I  13557
+S  5987 false
+I  12916
+D 24
+I  12880
+D 24
+I  11898
+S  7095 true
+D 24
+I  6826
+S  6327 false
+I  5179
+S  3326 true
+I  9071
+I  1618
+S  13314 true
+D 24
+I  8256
+S  5391 true
+D 24
+I  8936
+S  6727 true
+I  5497
+S  11976 true
+D 24
+I  10582
+D 24
+I  1986
+S  6532 true
+I  363
+I  6049
+S  2798 false
+D 24
+I  9588
+I  8441
+S  11436 true
+D 24
+I  5314
+S  13899 true
+I  8739
+S  5017 false
+D 24
+I  12652
+S  7124 false
+I  1824
+I  2712
+S  9441 true
+I  7612
+S  11084 true
+D 24
+I  8730
+D 24
+I  9310
+S  6603 true
+D 24
+I  9498
+I  5777
+D 24
+I  8309
+I  725
+S  13783 false
+D 24
+I  4524
+S  12274 true
+D 24
+I  13118
+I  14105
+D 24
+I  10200
+D 24
+I  6389
+S  986 true
+D 24
+I  6230
+I  2757
+S  14951 true
+I  9940
+I  10971
+D 24
+I  8142
+I  9478
+S  6058 false
+D 24
+I  5383
+S  1424 true
+D 24
+I  7970
+I  1864
+I  6784
+S  11224 true
+I  14798
+D 24
+I  12852
+D 24
+I  1185
+I  6512
+S  5413 true
+I  1940
+S  7972 false
+D 24
+I  13582
+S  12890 true
+I  7061
+S  23 true
+I  9729
+I  11682
+D 24
+I  750
+S  3529 true
+I  11341
+S  5538 true
+D 24
+I  12865
+D 24
+I  3599
+S  3524 false
+D 24
+I  13237
+D 24
+I  14593
+D 24
+I  8311
+S  9992 true
+I  13275
+S  2240 true
+D 24
+I  2967
+D 24
+I  8201
+S  11230 true
+I  2002
+S  6149 true
+I  14099
+I  11750
+I  6037
+S  10334 false
+I  12517
+I  11734
+S  7357 false
+I  11825
+S  3316 false
+D 24
+I  7462
+D 24
+I  148
+S  10044 false
+I  7904
+D 24
+I  1709
+I  3279
+S  7137 false
+I  3820
+S  8348 false
+I  4975
+D 24
+I  14273
+D 24
+I  13900
+S  5310 true
+D 24
+I  4465
+S  1825 true
+I  9184
+D 24
+I  13775
+D 24
+I  14584
+S  2913 true
+I  10681
+S  3286 true
+I  1169
+D 24
+I  3028
+S  9126 false
+I  8934
+S  9834 false
+D 24
+I  12252
+S  11526 true
+I  14698
+S  3563 true
+I  9447
+S  5507 false
+I  11753
+D 24
+I  10513
+D 24
+I  1186
+S  4224 true
+I  14155
+D 24
+I  14729
+S  7357 false
+D 24
+I  9300
+I  13278
+S  9129 false
+D 24
+I  3356
+S  6128 true
+I  14397
+S  8870 false
+D 24
+I  4822
+D 24
+I  9078
+I  658
+D 24
+I  8226
+S  5287 true
+D 24
+I  2599
+S  186 true
+I  2110
+I  2980
+D 24
+I  392
+S  6816 true
+D 24
+I  8376
+S  54 true
+I  10326
+S  13318 true
+D 24
+I  5804
+S  4669 false
+I  13572
+S  4555 true
+I  4132
+S  395 true
+I  3538
+I  10127
+D 24
+I  6780
+D 24
+I  5797
+S  1355 true
+I  1319
+S  12583 false
+D 24
+I  6648
+I  9966
+D 24
+I  10080
+S  5305 false
+D 24
+I  13776
+D 24
+I  5677
+I  7132
+I  4308
+I  8535
+S  912 true
+D 24
+I  277
+S  11746 false
+D 24
+I  4356
+S  10916 true
+I  3907
+I  837
+S  4669 false
+D 24
+I  9043
+S  1835 false
+D 24
+I  4688
+D 24
+I  212
+D 24
+I  11747
+S  10937 true
+I  5944
+D 24
+I  13828
+D 24
+I  2876
+I  8824
+I  7711
+S  856 true
+D 24
+I  1844
+S  1898 true
+D 24
+I  11100
+D 24
+I  10870
+S  6943 true
+I  11911
+D 24
+I  13356
+I  2156
+S  8073 true
+D 24
+I  6422
+D 24
+I  2559
+S  12486 true
+I  12942
+D 24
+I  8786
+D 24
+I  449
+S  10860 true
+D 24
+I  9696
+S  13617 true
+D 24
+I  9273
+S  1558 true
+I  8942
+D 24
+I  1529
+S  1297 true
+I  8401
+S  14099 true
+I  9455
+S  3128 true
+I  7961
+S  652 true
+D 24
+I  5258
+S  4518 false
+I  13501
+S  12773 true
+D 24
+I  12363
+S  11701 true
+I  12323
+S  8771 false
+D 24
+I  11994
+I  12341
+S  13348 true
+D 24
+I  6567
+I  13233
+I  8671
+S  3273 false
+D 24
+I  10491
+S  6946 true
+I  4166
+I  7610
+S  11442 true
+D 24
+I  8648
+I  1669
+S  14934 false
+D 24
+I  8569
+I  7090
+S  755 true
+I  7906
+S  8680 true
+D 24
+I  11919
+S  11636 true
+I  7972
+I  4338
+I  9129
+S  8878 false
+D 24
+I  5699
+S  9926 false
+D 24
+I  14644
+D 24
+I  1170
+D 24
+I  12463
+D 24
+I  3819
+D 24
+I  12998
+I  9553
+D 24
+I  14547
+D 24
+I  8308
+I  6010
+I  7236
+D 24
+I  9418
+S  4281 false
+I  10460
+D 24
+I  10780
+S  13951 false
+I  4382
+S  4527 true
+I  14393
+S  9187 false
+I  11528
+D 24
+I  1741
+S  14924 false
+D 24
+I  6
+D 24
+I  9944
+S  1417 true
+I  11770
+I  1334
+I  6797
+S  7027 false
+I  10307
+S  2822 false
+I  5972
+I  14295
+D 24
+I  5943
+I  10943
+D 24
+I  12930
+D 24
+I  12937
+S  11656 true
+I  13550
+S  8366 true
+I  10265
+S  12078 true
+D 24
+I  7407
+S  10653 true
+I  4739
+D 24
+I  10022
+D 24
+I  4384
+I  7977
+D 24
+I  3324
+S  7172 true
+D 24
+I  629
+D 24
+I  13860
+S  1496 true
+I  10044
+D 24
+I  5479
+S  3647 false
+D 24
+I  6842
+S  8022 true
+D 24
+I  4697
+D 24
+I  3365
+S  6624 false
+I  7878
+S  319 true
+D 24
+I  10534
+S  8730 true
+I  12018
+D 24
+I  3639
+I  2292
+S  12379 true
+I  5118
+S  10668 true
+I  5987
+S  9675 true
+D 24
+I  7039
+S  202 true
+I  1187
+D 24
+I  14725
+D 24
+I  7224
+S  2511 true
+D 24
+I  6197
+D 24
+I  9748
+I  4966
+D 24
+I  10343
+S  13306 true
+D 24
+I  11949
+S  8388 false
+I  4322
+S  13145 true
+I  8726
+D 24
+I  12126
+S  10362 false
+I  5911
+I  8145
+S  9587 false
+D 24
+I  8059
+I  11033
+S  9752 false
+I  8328
+S  3324 true
+I  7746
+D 24
+I  8348
+D 24
+I  8860
+D 24
+I  10620
+S  657 true
+I  6923
+S  7920 true
+D 24
+I  2718
+D 24
+I  5294
+S  12305 true
+I  6234
+D 24
+I  5516
+S  12365 true
+D 24
+I  1762
+S  5647 true
+D 24
+I  13715
+S  2946 false
+D 24
+I  3968
+S  11315 true
+I  11640
+D 24
+I  6776
+S  7394 false
+D 24
+I  209
+D 24
+I  4929
+I  10834
+I  1072
+S  535 true
+I  9702
+D 24
+I  1615
+I  3585
+D 24
+I  3088
+S  1116 true
+I  5080
+I  11647
+I  12555
+S  2127 false
+I  13651
+D 24
+I  10759
+S  3907 true
+D 24
+I  6129
+D 24
+I  9337
+S  2888 false
+D 24
+I  3878
+I  12072
+D 24
+I  2452
+S  12435 true
+D 24
+I  3738
+I  7116
+I  9186
+I  9739
+S  303 true
+D 24
+I  1466
+D 24
+I  14066
+D 24
+I  2487
+S  9298 false
+D 24
+I  8961
+S  5085 true
+I  2198
+D 24
+I  2057
+D 24
+I  10456
+S  539 true
+D 24
+I  9019
+I  4488
+I  3331
+I  5832
+I  1260
+D 24
+I  14493
+S  1463 true
+I  13351
+I  7456
+S  12012 true
+D 24
+I  5523
+I  2166
+S  12176 false
+I  5385
+S  8628 true
+D 24
+I  11053
+S  630 false
+D 24
+I  7652
+S  4894 false
+D 24
+I  10629
+S  405 false
+I  6081
+D 24
+I  8696
+S  14244 true
+I  6150
+S  13383 true
+D 24
+I  2858
+D 24
+I  10540
+S  4149 false
+D 24
+I  964
+S  11245 true
+D 24
+I  12445
+S  4461 true
+I  11748
+D 24
+I  11048
+S  13559 false
+D 24
+I  6147
+S  2068 false
+I  936
+S  2608 true
+D 24
+I  6329
+I  9445
+S  13519 true
+I  6664
+S  3924 false
+D 24
+I  10859
+S  5560 false
+D 24
+I  12583
+I  10105
+I  659
+D 24
+I  13415
+S  2008 true
+D 24
+I  13239
+S  4689 false
+I  3676
+S  3213 true
+D 24
+I  1949
+S  14124 false
+D 24
+I  4215
+S  4351 false
+D 24
+I  13633
+S  10491 true
+D 24
+I  14222
+S  4051 false
+I  9466
+S  3419 false
+I  6985
+S  353 true
+I  824
+S  13505 false
+I  854
+S  11051 false
+I  4264
+D 24
+I  3793
+S  12032 true
+I  10277
+S  12715 false
+D 24
+I  4743
+D 24
+I  9216
+D 24
+I  2960
+S  2877 true
+I  1748
+S  1678 true
+D 24
+I  7678
+S  11939 true
+D 24
+I  4019
+S  8932 false
+D 24
+I  9828
+S  5447 false
+I  9120
+I  6916
+S  48 true
+D 24
+I  12153
+S  13006 true
+I  10382
+D 24
+I  12746
+S  3018 true
+I  2985
+S  9349 true
+I  12282
+S  6463 true
+D 24
+I  8611
+S  11873 false
+D 24
+I  2210
+I  10922
+S  9735 true
+D 24
+I  13078
+S  5326 false
+D 24
+I  14276
+S  11283 false
+I  4170
+S  13445 false
+I  8067
+I  10744
+S  9748 true
+I  13608
+S  7206 false
+D 24
+I  5541
+I  13925
+D 24
+I  6104
+S  1502 false
+D 24
+I  9976
+S  3271 true
+D 24
+I  479
+I  8399
+S  13516 false
+I  2416
+I  9926
+D 24
+I  1149
+I  11388
+S  10534 true
+I  7562
+I  832
+I  8013
+I  1784
+I  7371
+I  10645
+S  2049 false
+D 24
+I  8096
+D 24
+I  349
+S  12851 true
+I  4380
+S  14852 true
+D 24
+I  1651
+I  5067
+D 24
+I  5458
+I  8876
+D 24
+I  6907
+S  3128 true
+I  11833
+S  7435 false
+D 24
+I  939
+D 24
+I  12482
+S  10679 true
+I  14091
+I  7120
+S  3087 false
+I  5130
+S  785 true
+I  7058
+S  13111 true
+D 24
+I  14728
+S  10653 true
+D 24
+I  6350
+I  12030
+D 24
+I  2135
+S  10091 false
+I  1818
+D 24
+I  6944
+S  7173 false
+D 24
+I  7428
+D 24
+I  5838
+S  4179 true
+I  1251
+S  8667 true
+D 24
+I  11758
+S  13488 false
+D 24
+I  9514
+S  10505 true
+I  1937
+I  6535
+S  14158 false
+I  12107
+D 24
+I  7617
+S  7418 true
+D 24
+I  11415
+D 24
+I  6695
+I  9298
+D 24
+I  5225
+S  12590 false
+D 24
+I  11677
+D 24
+I  4212
+S  934 true
+I  9749
+S  5161 false
+I  7281
+D 24
+I  1519
+S  1063 true
+D 24
+I  5277
+S  12786 false
+D 24
+I  6763
+I  12294
+S  12555 true
+I  1754
+S  3468 false
+D 24
+I  11921
+I  8195
+S  8293 true
+I  1263
+I  12654
+I  5855
+D 24
+I  87
+I  493
+D 24
+I  13950
+I  10985
+S  1579 true
+I  14621
+S  1413 true
+I  11820
+D 24
+I  12171
+D 24
+I  12182
+S  10008 true
+D 24
+I  1860
+S  13122 false
+I  9187
+S  14099 true
+D 24
+I  11760
+D 24
+I  9440
+D 24
+I  3423
+D 24
+I  5786
+I  12212
+D 24
+I  1826
+D 24
+I  3048
+S  12611 false
+D 24
+I  10482
+S  11526 true
+D 24
+I  10503
+S  4418 true
+I  1569
+S  12649 false
+I  6688
+I  813
+I  1868
+D 24
+I  5843
+S  9964 true
+D 24
+I  13638
+I  6762
+I  8034
+D 24
+I  11110
+S  8046 false
+I  1267
+S  7167 false
+D 24
+I  9409
+D 24
+I  5582
+S  3055 true
+D 24
+I  1550
+S  4224 true
+I  7464
+S  4814 true
+D 24
+I  13528
+D 24
+I  4917
+S  10718 true
+I  4973
+S  14977 true
+I  14635
+S  8124 false
+D 24
+I  3029
+I  14722
+S  3424 true
+D 24
+I  8808
+D 24
+I  9012
+S  6779 false
+I  2360
+S  4395 true
+I  14564
+S  8054 true
+D 24
+I  2675
+D 24
+I  10139
+D 24
+I  536
+I  2912
+S  3430 true
+I  14654
+I  414
+S  9588 true
+D 24
+I  12122
+S  11404 true
+I  700
+I  8330
+I  6610
+S  14300 true
+D 24
+I  609
+S  14233 true
+D 24
+I  1450
+S  11415 true
+I  7131
+S  7668 true
+D 24
+I  920
+S  13559 false
+I  5656
+D 24
+I  12552
+I  7028
+I  10091
+I  7223
+S  9709 true
+D 24
+I  2585
+S  11058 true
+D 24
+I  12431
+I  7696
+D 24
+I  10358
+I  13729
+I  14539
+D 24
+I  14213
+D 24
+I  12546
+D 24
+I  13099
+D 24
+I  3044
+I  5420
+S  10011 true
+I  9759
+D 24
+I  11414
+D 24
+I  12935
+I  9103
+S  6287 true
+D 24
+I  9706
+D 24
+I  3369
+S  6276 true
+I  1138
+D 24
+I  12244
+S  609 true
+D 24
+I  6410
+D 24
+I  14236
+D 24
+I  3100
+S  8653 false
+D 24
+I  11688
+I  10837
+S  10837 true
+D 24
+I  9765
+I  13324
+I  8930
+I  5746
+S  8880 true
+I  14965
+S  5703 true
+I  11255
+S  8427 true
+D 24
+I  10669
+I  2587
+D 24
+I  7450
+S  11112 true
+D 24
+I  2874
+I  14986
+I  14824
+I  1501
+S  1304 true
+D 24
+I  11273
+D 24
+I  1612
+D 24
+I  2221
+I  7927
+S  2421 true
+D 24
+I  13309
+S  5541 true
+I  6433
+D 24
+I  12479
+S  4002 true
+D 24
+I  5399
+D 24
+I  13781
+I  10303
+I  1314
+I  2337
+I  6835
+D 24
+I  8424
+I  6307
+D 24
+I  13061
+I  9203
+I  5836
+D 24
+I  13642
+I  8491
+S  14036 false
+D 24
+I  5830
+I  3257
+S  1368 true
+I  321
+D 24
+I  14733
+D 24
+I  205
+S  5545 true
+D 24
+I  2101
+D 24
+I  3698
+S  8786 true
+I  2038
+S  11647 true
+D 24
+I  13180
+I  2626
+S  14481 true
+I  3897
+D 24
+I  11900
+D 24
+I  1064
+S  14729 true
+D 24
+I  2727
+S  14951 true
+I  2284
+S  4590 true
+I  8266
+S  8505 false
+D 24
+I  1386
+D 24
+I  9121
+D 24
+I  13414
+I  9557
+D 24
+I  13941
+D 24
+I  3169
+S  11607 true
+D 24
+I  13639
+D 24
+I  1042
+S  3652 true
+I  4149
+D 24
+I  11740
+I  1620
+D 24
+I  9348
+S  517 false
+I  9837
+D 24
+I  2775
+S  115 false
+I  1217
+I  2160
+S  5315 false
+D 24
+I  10219
+I  11530
+D 24
+I  7887
+D 24
+I  8356
+I  1140
+D 24
+I  7184
+S  14685 true
+I  7083
+D 24
+I  1753
+S  5777 true
+I  7265
+S  12176 false
+D 24
+I  3318
+D 24
+I  4092
+S  3652 true
+D 24
+I  13231
+I  164
+S  7088 true
+D 24
+I  7547
+I  5111
+D 24
+I  6722
+I  8541
+S  1968 false
+I  562
+S  9430 true
+I  4394
+D 24
+I  9275
+D 24
+I  13779
+I  13854
+S  7802 true
+D 24
+I  6692
+S  456 true
+I  12117
+S  6176 true
+I  14082
+D 24
+I  1052
+S  12694 false
+I  12715
+S  14287 false
+D 24
+I  8941
+D 24
+I  10448
+D 24
+I  12466
+I  13987
+I  9734
+I  6496
+D 24
+I  8505
+I  10819
+S  2582 false
+I  11435
+S  10152 true
+I  6259
+D 24
+I  4021
+S  13648 false
+D 24
+I  14329
+S  9236 false
+I  7551
+D 24
+I  12761
+I  7052
+D 24
+I  14933
+D 24
+I  14158
+D 24
+I  7856
+S  4262 true
+I  9900
+S  4897 false
+I  9144
+D 24
+I  3664
+S  9381 false
+D 24
+I  13464
+S  4985 false
+D 24
+I  11438
+D 24
+I  2034
+I  10247
+S  6814 true
+I  11292
+S  10937 true
+D 24
+I  12503
+S  3522 true
+I  4269
+S  10737 false
+I  4864
+S  4436 false
+D 24
+I  2068
+D 24
+I  2458
+S  6852 true
+D 24
+I  9549
+I  12908
+I  3254
+I  4334
+I  14330
+I  5331
+D 24
+I  14259
+S  1841 false
+I  5274
+D 24
+I  14655
+D 24
+I  10310
+S  7316 true
+I  6570
+D 24
+I  1995
+S  8015 false
+D 24
+I  14283
+S  5294 true
+D 24
+I  9909
+D 24
+I  14026
+I  8129
+S  5867 true
+D 24
+I  11589
+I  6021
+D 24
+I  13707
+I  3516
+S  9930 true
+I  6760
+S  13273 true
+I  12618
+S  11064 true
+I  12876
+S  10997 true
+D 24
+I  13584
+S  10275 true
+I  5166
+I  2639
+S  5777 true
+D 24
+I  1336
+I  12611
+D 24
+I  11332
+I  13652
+I  3453
+I  10132
+D 24
+I  6266
+S  11674 true
+D 24
+I  10314
+S  8510 false
+I  6012
+D 24
+I  11950
+S  14844 true
+I  12737
+S  11235 false
+I  13241
+I  9795
+S  13591 false
+I  12956
+I  5315
+S  1677 true
+D 24
+I  8932
+I  777
+S  10140 false
+D 24
+I  10600
+S  14844 true
+D 24
+I  9297
+I  2226
+I  1835
+S  3872 true
+D 24
+I  8586
+S  14108 true
+D 24
+I  9301
+S  7460 true
+I  2375
+S  12213 false
+I  2061
+S  11617 false
+D 24
+I  10167
+S  14880 true
+I  12044
+D 24
+I  9856
+I  11631
+S  8457 true
+D 24
+I  13631
+S  2152 true
+D 24
+I  14492
+I  152
+S  5744 true
+I  8771
+S  5322 true
+I  11029
+S  4552 true
+I  14466
+S  9837 true
+D 24
+I  5507
+I  6211
+S  83 true
+I  9834
+S  11451 true
+I  14
+S  8045 true
+D 24
+I  2439
+S  14026 true
+I  12694
+D 24
+I  8213
+S  357 false
+D 24
+I  6052
+D 24
+I  11768
+D 24
+I  717
+S  9332 false
+I  14649
+S  5841 true
+D 24
+I  12926
+I  12016
+S  9735 true
+I  836
+S  5560 false
+D 24
+I  3949
+S  13752 true
+D 24
+I  5377
+D 24
+I  7027
+S  12491 false
+I  8029
+S  13474 true
+I  1411
+I  13793
+S  3369 true
+D 24
+I  1943
+D 24
+I  10054
+D 24
+I  9302
+S  5890 true
+D 24
+I  2533
+I  7010
+I  13769
+S  6520 false
+D 24
+I  7703
+S  7878 true
+D 24
+I  12533
+S  6921 false
+D 24
+I  7162
+S  5177 false
+I  12960
+S  8786 true
+D 24
+I  9457
+I  1749
+S  1198 true
+I  10751
+S  5132 false
+D 24
+I  4320
+D 24
+I  4953
+I  4496
+I  6454
+S  8989 false
+I  1223
+I  3509
+D 24
+I  12584
+S  8222 true
+D 24
+I  11274
+S  9638 false
+I  4609
+D 24
+I  4595
+D 24
+I  7394
+D 24
+I  7085
+S  14815 false
+D 24
+I  5002
+S  3100 true
+D 24
+I  12411
+S  3626 true
+D 24
+I  221
+S  6796 false
+D 24
+I  8766
+I  661
+S  9458 true
+D 24
+I  9958
+S  3246 false
+I  8101
+I  9454
+S  13924 true
+D 24
+I  7991
+I  2643
+D 24
+I  2049
+S  7083 true
+I  10998
+S  11436 true
+I  8011
+I  1009
+I  2638
+D 24
+I  2909
+S  8136 true
+D 24
+I  2475
+D 24
+I  11243
+I  5051
+D 24
+I  7827
+S  9968 true
+D 24
+I  2149
+I  10104
+S  2275 true
+I  4736
+S  2427 true
+I  5302
+S  8640 false
+D 24
+I  7134
+I  10918
+D 24
+I  2409
+I  13615
+S  2672 false
+I  2588
+I  8809
+S  12258 true
+D 24
+I  8350
+I  12964
+I  14209
+I  5442
+S  12473 false
+D 24
+I  11011
+S  8871 false
+I  2723
+I  847
+I  6322
+S  14728 true
+D 24
+I  8617
+S  11734 true
+D 24
+I  1608
+D 24
+I  11547
+D 24
+I  6983
+S  4667 true
+D 24
+I  3046
+I  3866
+S  2877 true
+I  7503
+D 24
+I  13376
+I  3971
+I  14431
+S  9476 true
+I  4996
+D 24
+I  10738
+D 24
+I  14921
+D 24
+I  8318
+I  8794
+S  1139 true
+D 24
+I  8661
+I  8307
+D 24
+I  11063
+S  460 true
+I  3589
+S  12459 true
+D 24
+I  701
+I  3225
+I  9728
+S  1902 true
+I  7266
+S  723 false
+I  14851
+I  12473
+D 24
+I  6026
+S  13641 true
+I  1307
+S  6208 false
+D 24
+I  405
+D 24
+I  3506
+D 24
+I  6283
+D 24
+I  6962
+S  8713 true
+I  6682
+S  11748 true
+D 24
+I  14480
+S  9547 true
+I  10996
+I  2710
+S  1901 true
+D 24
+I  9236
+D 24
+I  4954
+S  4722 false
+I  4368
+I  14342
+I  10865
+I  5780
+S  1876 true
+D 24
+I  3611
+S  6043 true
+I  5549
+S  13699 true
+I  5975
+S  11069 true
+D 24
+I  2959
+S  13791 true
+I  8262
+S  4486 false
+I  5433
+D 24
+I  11497
+S  13164 true
+I  4085
+S  2125 true
+D 24
+I  2154
+S  2172 true
+I  6135
+I  3468
+S  9958 true
+I  2347
+S  2588 true
+D 24
+I  2459
+D 24
+I  428
+S  6677 false
+I  7994
+I  4722
+S  14919 false
+I  7173
+D 24
+I  10665
+S  14101 true
+I  8653
+I  14872
+I  12324
+S  6866 true
+D 24
+I  3691
+S  5328 true
+D 24
+I  12545
+S  8638 true
+I  10835
+S  14951 true
+D 24
+I  7081
+S  12665 true
+D 24
+I  9653
+S  13752 true
+D 24
+I  1475
+D 24
+I  5569
+S  1695 false
+I  2943
+I  14778
+S  2997 true
+I  13349
+S  1128 false
+D 24
+I  8682
+I  7392
+S  2164 true
+D 24
+I  1491
+S  5129 false
+I  14751
+I  4439
+S  5487 false
+D 24
+I  6813
+D 24
+I  10174
+I  9874
+S  2885 false
+D 24
+I  9776
+I  13531
+D 24
+I  13339
+D 24
+I  9638
+S  10013 true
+I  8108
+S  5561 true
+D 24
+I  2748
+D 24
+I  9282
+I  239
+I  6785
+S  3606 true
+I  11629
+D 24
+I  5447
+D 24
+I  393
+I  5879
+D 24
+I  9451
+S  11570 true
+I  1057
+S  14061 true
+D 24
+I  3756
+S  11738 true
+D 24
+I  9285
+D 24
+I  4448
+S  5296 false
+D 24
+I  192
+I  8438
+D 24
+I  14934
+S  12722 false
+D 24
+I  829
+S  6386 true
+D 24
+I  10926
+D 24
+I  809
+S  1328 false
+I  8359
+I  9318
+S  13902 true
+I  12987
+S  14451 true
+I  8462
+I  11446
+D 24
+I  3667
+S  8046 false
+D 24
+I  5580
+S  2695 false
+D 24
+I  8191
+S  8 true
+I  10801
+D 24
+I  5448
+I  5232
+I  919
+D 24
+I  10224
+I  9334
+S  12912 false
+I  5297
+D 24
+I  10573
+S  13686 false
+D 24
+I  8532
+S  14888 true
+I  4344
+D 24
+I  5162
+S  13351 true
+I  4050
+S  1965 true
+D 24
+I  881
+D 24
+I  7794
+S  803 true
+D 24
+I  7221
+D 24
+I  8347
+D 24
+I  9495
+D 24
+I  2023
+S  3725 true
+I  2096
+D 24
+I  8388
+S  14368 true
+I  5891
+S  5407 true
+I  1118
+I  2032
+S  3468 true
+D 24
+I  2138
+S  10600 true
+I  4971
+I  11472
+I  8949
+S  11775 false
+I  14766
+D 24
+I  9020
+S  11456 true
+D 24
+I  1614
+I  6054
+I  5284
+D 24
+I  7357
+S  5691 true
+D 24
+I  6755
+D 24
+I  7954
+S  4526 true
+D 24
+I  13871
+S  11901 false
+D 24
+I  4467
+S  6923 true
+D 24
+I  7674
+I  14251
+D 24
+I  2364
+I  3755
+S  14746 false
+D 24
+I  8086
+I  13497
+I  14775
+I  1315
+I  1952
+S  1174 false
+D 24
+I  6702
+D 24
+I  13944
+S  14729 true
+D 24
+I  5824
+D 24
+I  5029
+S  4405 false
+D 24
+I  1402
+D 24
+I  13509
+I  4606
+I  4810
+S  1852 true
+D 24
+I  14191
+S  13270 false
+I  2946
+S  3619 true
+I  4568
+I  2114
+D 24
+I  10140
+I  6058
+S  2643 true
+D 24
+I  3535
+I  430
+D 24
+I  14090
+S  7907 false
+I  2885
+S  12709 true
+I  14287
+I  13637
+D 24
+I  1423
+I  10155
+D 24
+I  10897
+I  1128
+S  14898 true
+I  8764
+D 24
+I  2307
+S  7030 true
+D 24
+I  13340
+S  13817 true
+D 24
+I  11085
+S  4050 true
+I  4445
+S  7283 true
+D 24
+I  7957
+I  6011
+S  7800 true
+D 24
+I  7346
+S  316 true
+D 24
+I  4543
+I  8843
+S  4761 true
+I  14461
+S  2638 true
+I  8871
+I  12176
+S  2460 false
+I  10654
+S  5656 true
+D 24
+I  9821
+I  9370
+S  2207 true
+D 24
+I  3099
+D 24
+I  4726
+S  14493 true
+I  5249
+I  10090
+S  13346 true
+D 24
+I  155
+D 24
+I  1222
+D 24
+I  13918
+S  1482 true
+D 24
+I  14081
+D 24
+I  11559
+I  10235
+S  460 true
+D 24
+I  2212
+I  7799
+S  5843 true
+D 24
+I  5993
+D 24
+I  4398
+D 24
+I  11148
+D 24
+I  723
+I  9226
+S  8922 false
+D 24
+I  14924
+I  12891
+S  13987 true
+I  6232
+I  10874
+D 24
+I  12542
+I  8676
+D 24
+I  5813
+S  6327 false
+I  8658
+I  3746
+D 24
+I  14573
+I  6677
+I  6237
+D 24
+I  14068
+D 24
+I  12822
+D 24
+I  3524
+S  13782 true
+I  12202
+S  5938 false
+D 24
+I  13196
+S  14662 true
+I  1857
+I  10333
+D 24
+I  14176
+S  923 true
+D 24
+I  13202
+S  12277 true
+I  13334
+D 24
+I  6624
+S  539 true
+I  3024
+S  3924 false
+I  9225
+D 24
+I  9132
+S  3162 false
+I  5326
+S  149 true
+I  13971
+I  2783
+S  5446 true
+I  2450
+S  11327 false
+I  7733
+S  9348 true
+I  12101
+S  6510 true
+D 24
+I  3488
+D 24
+I  90
+S  6602 false
+I  6271
+S  2923 false
+I  12976
+S  10318 false
+D 24
+I  6393
+D 24
+I  8407
+S  1491 true
+D 24
+I  8261
+S  12933 true
+I  13955
+I  5701
+I  10095
+I  5835
+S  4810 true
+I  8368
+I  14409
+I  2295
+S  7485 false
+I  3567
+S  10765 true
+D 24
+I  13603
+D 24
+I  11104
+D 24
+I  7857
+D 24
+I  5304
+S  6946 true
+I  8316
+S  919 true
+I  5678
+D 24
+I  12809
+S  6670 true
+D 24
+I  7892
+S  8400 false
+D 24
+I  10976
+I  3864
+S  4364 true
+I  11384
+S  3026 true
+I  7894
+I  2301
+D 24
+I  11428
+S  14852 true
+I  11538
+S  13779 true
+I  6160
+S  2452 true
+D 24
+I  7724
+S  6099 true
+D 24
+I  5602
+D 24
+I  5652
+S  6664 true
+D 24
+I  11167
+S  12815 true
+I  2286
+D 24
+I  10115
+S  3889 true
+I  13648
+S  4041 true
+I  8015
+S  3055 true
+D 24
+I  8175
+S  13011 false
+I  11193
+I  283
+S  12954 false
+D 24
+I  14398
+S  2330 false
+I  3068
+S  777 true
+I  5356
+S  9215 true
+I  9396
+S  13468 true
+D 24
+I  7167
+D 24
+I  5605
+I  10266
+I  4325
+D 24
+I  12649
+D 24
+I  9220
+D 24
+I  9381
+S  1999 true
+I  2805
+S  1694 false
+I  10737
+D 24
+I  2978
+D 24
+I  1049
+S  3866 true
+D 24
+I  593
+S  957 true
+D 24
+I  2994
+D 24
+I  4737
+S  1481 true
+I  14731
+S  5153 true
+I  860
+D 24
+I  8544
+S  2909 true
+I  8510
+D 24
+I  736
+S  3331 true
+D 24
+I  7231
+S  1708 true
+D 24
+I  5495
+S  8439 true
+I  103
+D 24
+I  1905
+D 24
+I  791
+I  9200
+D 24
+I  10708
+D 24
+I  6909
+S  792 true
+I  14948
+S  10006 false
+D 24
+I  6079
+S  2259 false
+I  6627
+S  9258 true
+I  13765
+D 24
+I  11991
+S  2475 true
+D 24
+I  4126
+S  10292 true
+D 24
+I  1838
+S  9526 true
+D 24
+I  790
+S  7116 true
+D 24
+I  3146
+S  14824 true
+I  12717
+S  5598 true
+D 24
+I  10101
+S  5894 true
+D 24
+I  9752
+I  3101
+S  12154 true
+D 24
+I  1302
+I  4190
+S  11768 true
+I  4321
+S  7435 false
+I  11917
+S  310 true
+I  13259
+I  1016
+I  11715
+I  3161
+S  3878 true
+I  1845
+S  14101 true
+D 24
+I  12793
+S  1307 true
+D 24
+I  12847
+S  2366 false
+D 24
+I  5745
+D 24
+I  7748
+D 24
+I  12011
+D 24
+I  12637
+S  9401 false
+I  3142
+I  8137
+S  5483 true
+I  9470
+I  4500
+D 24
+I  14587
+S  14068 true
+I  2900
+S  10798 false
+I  11658
+S  5944 true
+D 24
+I  8340
+D 24
+I  10777
+D 24
+I  9146
+I  1806
+S  12461 true
+I  4434
+S  7085 true
+D 24
+I  11405
+D 24
+I  8496
+I  4759
+D 24
+I  130
+D 24
+I  4532
+S  5785 true
+I  2880
+S  7171 false
+I  5551
+D 24
+I  7706
+S  9252 true
+D 24
+I  13039
+S  10826 true
+D 24
+I  10812
+D 24
+I  12947
+S  2586 true
+I  10328
+S  5314 true
+I  14328
+D 24
+I  13461
+S  9728 true
+D 24
+I  10817
+I  6948
+S  166 true
+I  11958
+D 24
+I  6371
+S  8339 true
+I  1003
+I  12397
+I  3012
+S  4096 true
+D 24
+I  4644
+S  6592 true
+D 24
+I  12049
+S  14357 true
+I  7171
+S  2582 false
+I  4176
+S  1268 false
+I  12353
+I  3151
+I  5038
+I  10085
+D 24
+I  10551
+S  12938 false
+I  7737
+D 24
+I  12674
+S  8789 false
+I  6528
+S  5011 false
+D 25
+I  11102
+I  772
+S  11299 true
+I  12312
+S  11970 true
+I  14464
+D 25
+I  6791
+S  4954 true
+D 25
+I  11535
+I  11327
+D 25
+I  11798
+I  7064
+D 25
+I  1636
+D 25
+I  3209
+S  13807 true
+D 25
+I  14063
+D 25
+I  7124
+S  8535 true
+D 25
+I  6364
+D 25
+I  10830
+S  2501 true
+D 25
+I  11185
+I  6130
+S  1451 true
+D 25
+I  9793
+S  9874 true
+I  2928
+S  10101 true
+D 25
+I  13178
+I  4218
+I  7753
+S  2997 true
+I  5754
+D 25
+I  4202
+D 25
+I  14449
+D 25
+I  7401
+S  6177 true
+D 25
+I  12630
+S  13583 true
+D 25
+I  6417
+S  11672 true
+I  11068
+S  14669 true
+I  2496
+I  6097
+S  9748 true
+I  11671
+S  319 true
+I  7780
+D 25
+I  1591
+I  13937
+S  4731 false
+D 25
+I  12203
+S  14810 true
+D 25
+I  5043
+S  11415 true
+I  3595
+I  14966
+D 25
+I  7699
+S  5447 true
+I  2448
+S  11770 true
+I  13562
+S  4258 true
+I  6342
+S  1542 true
+I  2293
+I  1341
+S  6850 true
+I  14507
+D 25
+I  10318
+S  14155 true
+D 25
+I  58
+S  5721 true
+D 25
+I  3259
+D 25
+I  11981
+D 25
+I  5773
+D 25
+I  702
+D 25
+I  13591
+D 25
+I  14823
+S  7117 true
+D 25
+I  1694
+D 25
+I  11909
+S  7734 true
+I  1604
+S  9401 false
+I  8989
+D 25
+I  11679
+D 25
+I  11256
+S  9441 true
+I  9778
+S  4595 true
+I  13951
+I  11051
+S  6394 true
+D 25
+I  13388
+S  4807 true
+I  8251
+S  1531 true
+D 25
+I  12296
+D 25
+I  8633
+S  2283 true
+D 25
+I  7890
+I  9403
+D 25
+I  3608
+S  5385 true
+I  5990
+I  11377
+I  10588
+S  3798 false
+D 25
+I  5250
+I  12590
+D 25
+I  14598
+S  2864 true
+D 25
+I  12220
+S  11538 true
+D 25
+I  11115
+S  14709 true
+D 25
+I  14113
+I  1289
+I  13988
+S  12296 true
+D 25
+I  1931
+D 25
+I  4844
+S  2295 true
+D 25
+I  3316
+S  12466 true
+D 25
+I  3388
+S  8685 true
+I  1966
+S  2226 true
+I  10824
+D 25
+I  8314
+S  8129 true
+I  13161
+S  13533 true
+I  11700
+S  1048 true
+I  1771
+I  11524
+S  12662 false
+D 25
+I  14119
+S  7464 true
+I  13556
+S  5832 true
+D 25
+I  766
+I  300
+D 25
+I  13686
+S  10843 false
+I  5715
+S  6499 false
+I  357
+S  4380 true
+D 25
+I  9957
+S  2622 true
+I  3616
+D 25
+I  7923
+S  4569 true
+D 25
+I  1545
+S  8793 false
+D 25
+I  13844
+I  13122
+I  11515
+D 25
+I  14056
+S  8787 true
+D 25
+I  14746
+I  3308
+D 25
+I  10798
+S  7236 true
+D 25
+I  12261
+S  3246 false
+I  8297
+S  13251 true
+I  11295
+D 25
+I  5114
+S  6956 true
+D 25
+I  13471
+S  5993 true
+I  2246
+S  8765 false
+I  143
+S  7466 true
+D 25
+I  12786
+D 25
+I  4130
+S  1445 false
+I  1250
+I  14953
+I  3859
+S  12766 false
+I  14281
+I  7370
+S  7302 true
+D 25
+I  7435
+I  9830
+S  817 true
+I  115
+D 25
+I  7306
+S  7306 true
+I  14580
+S  4809 true
+D 25
+I  3241
+S  6870 false
+I  11888
+S  14101 true
+I  10957
+D 25
+I  1605
+S  9706 true
+D 25
+I  830
+S  5972 true
+I  4107
+S  4750 false
+I  1441
+S  11104 true
+I  2451
+D 25
+I  5305
+I  14162
+S  14770 true
+D 25
+I  6333
+D 25
+I  3269
+S  894 false
+D 25
+I  7739
+S  814 true
+I  410
+S  5927 true
+D 25
+I  12766
+I  4486
+D 25
+I  4551
+D 25
+I  6796
+S  5231 false
+I  7137
+D 25
+I  11901
+I  10237
+S  5413 true
+I  2336
+S  3110 true
+I  10747
+D 25
+I  13279
+S  12274 true
+I  11542
+I  9189
+S  10309 false
+I  1906
+S  106 true
+D 25
+I  7482
+I  4239
+D 25
+I  4243
+D 25
+I  7025
+I  10047
+S  10803 true
+I  10329
+S  1677 true
+I  4175
+I  337
+S  6029 false
+I  2725
+D 25
+I  4436
+I  11575
+I  13956
+S  6852 true
+D 25
+I  14242
+S  4466 true
+D 25
+I  7369
+D 25
+I  6499
+D 25
+I  12699
+I  14230
+S  2740 true
+I  12070
+I  7195
+S  13046 true
+D 25
+I  5
+S  13847 true
+I  3367
+S  3118 true
+I  14814
+S  1898 true
+D 25
+I  11928
+S  11028 true
+I  11041
+S  13988 true
+D 25
+I  3246
+S  5732 true
+D 25
+I  10900
+S  1620 true
+D 25
+I  10749
+S  10922 true
+D 25
+I  10323
+D 25
+I  10220
+I  9231
+I  8069
+S  3396 true
+D 25
+I  5296
+I  14543
+S  3303 true
+D 25
+I  1633
+I  10334
+S  11541 true
+I  1151
+S  9874 true
+D 25
+I  6824
+S  3355 true
+I  13112
+S  14096 true
+I  10230
+S  8352 true
+D 25
+I  11795
+I  6277
+I  14157
+D 25
+I  9390
+S  3639 true
+I  5266
+D 25
+I  4381
+S  2056 true
+I  1979
+I  7777
+S  12938 false
+I  8789
+S  1853 true
+D 25
+I  5560
+S  14850 false
+I  2073
+I  432
+S  13586 true
+I  4051
+D 25
+I  4254
+S  10859 true
+D 25
+I  6602
+S  8961 true
+I  96
+S  3599 true
+D 25
+I  7112
+S  2138 true
+I  10006
+I  1711
+S  13225 true
+D 25
+I  10256
+S  813 true
+I  11617
+I  6127
+S  14079 true
+I  1786
+S  13953 true
+I  5834
+S  1612 true
+D 25
+I  13835
+S  13339 true
+I  4861
+S  680 true
+D 25
+I  12318
+S  3059 false
+I  7606
+S  922 true
+I  5872
+S  4780 true
+I  6347
+S  13563 false
+I  8922
+S  11110 true
+D 25
+I  8156
+D 25
+I  8928
+I  10502
+S  9216 true
+I  10094
+S  11042 true
+I  3108
+S  13776 true
+I  10384
+S  6358 true
+I  1002
+S  10826 true
+I  1707
+S  1844 true
+I  6064
+I  6582
+I  8122
+D 25
+I  7470
+D 25
+I  2310
+S  13479 false
+I  6048
+S  4590 true
+I  5267
+I  5132
+S  3146 true
+I  2923
+S  12285 true
+D 25
+I  484
+D 25
+I  4710
+S  11621 true
+I  14719
+S  14618 true
+I  11645
+D 25
+I  13734
+D 25
+I  12491
+I  3342
+I  6660
+D 25
+I  11460
+S  5746 true
+D 25
+I  12520
+D 25
+I  6520
+I  5072
+S  11944 true
+I  9028
+D 25
+I  10627
+S  10192 false
+D 25
+I  606
+I  2066
+S  13704 true
+I  13065
+S  9478 true
+D 25
+I  7320
+I  12972
+S  10824 true
+I  2914
+D 25
+I  1785
+S  3866 true
+I  4376
+S  2164 true
+D 25
+I  8894
+S  1529 true
+I  10523
+I  617
+S  2511 true
+I  14590
+S  11547 true
+I  4542
+S  3281 true
+I  1366
+I  14919
+I  1273
+S  12960 true
+I  9373
+S  3424 true
+I  5576
+D 25
+I  1279
+S  9129 true
+D 25
+I  13027
+S  6520 true
+D 25
+I  1100
+S  2936 true
+I  340
+D 25
+I  9632
+S  6322 true
+D 25
+I  1326
+S  456 true
+D 25
+I  12502
+S  5555 false
+I  6421
+S  3538 true
+I  10042
+D 25
+I  8598
+S  8713 true
+I  11883
+D 25
+I  12829
+I  10560
+I  2366
+D 25
+I  94
+S  9297 true
+I  13688
+S  1629 true
+D 25
+I  5161
+D 25
+I  3009
+S  1167 true
+D 25
+I  14990
+D 25
+I  1772
+S  1906 true
+I  6684
+I  9254
+I  14739
+D 25
+I  13910
+S  986 true
+I  2919
+D 25
+I  2716
+D 25
+I  105
+I  2530
+S  4773 true
+D 25
+I  11897
+I  10571
+S  7606 true
+I  5487
+D 25
+I  11399
+S  10708 true
+D 25
+I  5482
+D 25
+I  13967
+I  1548
+I  517
+S  1835 true
+I  7005
+S  3004 true
+I  8792
+I  2688
+S  6813 true
+D 25
+I  9925
+S  2329 false
+I  11719
+S  10505 true
+I  648
+I  3287
+S  14668 true
+D 25
+I  4349
+D 25
+I  1108
+S  10404 true
+D 25
+I  8607
+S  10209 false
+I  1381
+S  7992 true
+D 25
+I  260
+S  9288 true
+D 25
+I  8917
+S  3611 true
+I  14124
+S  7857 true
+I  1375
+S  13224 true
+I  8793
+D 25
+I  2908
+S  1864 true
+I  6196
+S  11387 false
+D 25
+I  9401
+I  7488
+D 25
+I  12064
+S  13675 true
+D 25
+I  5805
+S  8156 true
+I  12706
+S  905 true
+D 25
+I  12137
+S  7612 true
+D 25
+I  11775
+D 25
+I  12357
+I  1274
+D 25
+I  10823
+D 25
+I  4957
+S  9473 true
+I  7911
+D 25
+I  13479
+D 25
+I  10427
+S  6532 true
+I  4084
+D 25
+I  6759
+S  9537 false
+D 25
+I  2460
+D 25
+I  10367
+I  14622
+I  14980
+D 25
+I  3789
+I  10322
+S  717 true
+I  10962
+D 25
+I  12313
+S  266 true
+D 25
+I  1875
+S  6449 true
+D 25
+I  10843
+I  849
+S  2978 true
+D 25
+I  399
+S  9337 true
+I  1696
+S  7389 true
+I  4281
+D 25
+I  7940
+S  12546 true
+D 25
+I  10991
+S  7357 true
+I  3752
+S  13716 false
+I  6102
+S  148 true
+I  11827
+S  5782 true
+I  10963
+S  10996 true
+I  2471
+S  10080 true
+I  4484
+I  950
+I  11791
+D 25
+I  3612
+S  9680 false
+D 25
+I  11439
+S  11663 false
+D 25
+I  13460
+S  1906 true
+I  2695
+S  3279 true
+D 25
+I  3987
+S  14105 true
+I  8124
+I  8342
+S  11341 true
+D 25
+I  5766
+S  7116 true
+I  13445
+I  11746
+S  11442 true
+I  2400
+S  1965 true
+I  11298
+I  10694
+S  10326 true
+D 25
+I  14183
+D 25
+I  5265
+D 25
+I  598
+I  9344
+I  14152
+S  4544 true
+D 25
+I  19
+I  9577
+S  11626 true
+D 25
+I  3273
+S  3165 true
+I  1227
+I  11882
+S  3273 true
+I  1286
+I  14045
+S  7072 true
+D 25
+I  1069
+D 25
+I  8060
+I  3750
+D 25
+I  134
+S  227 true
+I  12804
+D 25
+I  6142
+I  9124
+S  13493 true
+I  3059
+S  5571 true
+I  13832
+S  14875 true
+D 25
+I  3252
+D 25
+I  563
+D 25
+I  2807
+S  422 true
+I  14430
+I  1695
+S  5266 true
+I  6168
+S  8071 true
+I  1445
+S  5750 true
+I  13611
+S  5036 true
+I  1625
+D 25
+I  3536
+I  6008
+I  8878
+I  8402
+I  11361
+D 25
+I  10755
+D 25
+I  9068
+S  4852 true
+D 25
+I  1706
+S  2424 true
+I  12954
+S  3536 true
+D 25
+I  13505
+S  14420 false
+D 25
+I  3448
+S  10788 true
+I  8133
+D 25
+I  11965
+D 25
+I  8053
+S  9409 true
+D 25
+I  6883
+S  4047 true
+I  6556
+S  11547 true
+I  13931
+I  11328
+I  4837
+D 25
+I  8640
+S  5633 true
+D 25
+I  11235
+I  13594
+S  2460 true
+I  6308
+I  3558
+D 25
+I  11024
+S  13611 true
+I  13301
+S  14246 true
+D 25
+I  11081
+S  3028 true
+I  3200
+S  13031 true
+I  5726
+S  192 true
+I  5259
+S  9992 true
+I  8083
+D 25
+I  1566
+I  13964
+S  94 true
+D 25
+I  7862
+S  11858 true
+D 25
+I  13563
+I  10282
+I  5770
+S  14409 true
+D 25
+I  3162
+D 25
+I  371
+I  5555
+S  4985 false
+D 25
+I  5151
+S  693 true
+D 25
+I  11920
+D 25
+I  12849
+D 25
+I  2554
+S  14798 true
+I  3923
+I  8553
+I  5710
+S  4320 true
+D 25
+I  630
+S  115 true
+D 25
+I  5237
+D 25
+I  983
+S  1164 true
+I  8219
+S  13533 true
+I  11594
+S  8363 true
+D 25
+I  5182
+D 25
+I  3087
+D 25
+I  1462
+I  9419
+D 25
+I  304
+D 25
+I  8580
+S  7383 true
+I  11376
+S  12012 true
+D 25
+I  715
+I  12534
+I  4897
+D 25
+I  4048
+S  2400 true
+D 25
+I  3792
+S  6011 true
+I  5899
+S  2635 true
+D 25
+I  7421
+D 25
+I  3643
+S  566 true
+D 25
+I  6971
+S  1893 false
+D 25
+I  10816
+S  5656 true
+D 25
+I  5177
+D 25
+I  8501
+S  6296 false
+I  2402
+I  1525
+I  9896
+S  1016 true
+I  3115
+I  12516
+S  105 true
+I  5306
+I  10249
+D 25
+I  14922
+I  7111
+D 25
+I  8429
+I  14850
+S  4922 true
+D 25
+I  10700
+S  4542 true
+I  14914
+I  6007
+S  13251 true
+I  4750
+I  4286
+I  2227
+D 25
+I  581
+I  11147
+I  4241
+D 25
+I  14647
+S  5393 true
+D 25
+I  6547
+S  3108 true
+I  6208
+I  13757
+S  14647 true
+D 25
+I  11574
+S  139 true
+D 25
+I  5959
+S  12127 true
+D 25
+I  4536
+I  12892
+S  6389 true
+D 25
+I  11416
+D 25
+I  4298
+D 25
+I  12722
+I  4731
+S  2849 true
+I  6539
+S  10943 true
+I  11014
+S  8 true
+D 25
+I  5011
+S  14977 true
+I  11848
+D 25
+I  13270
+S  3859 true
+D 25
+I  13794
+S  13422 true
+I  9993
+D 25
+I  6921
+S  12892 true
+D 25
+I  4925
+D 25
+I  1972
+S  7890 true
+I  12058
+S  5128 true
+I  3882
+I  5231
+D 25
+I  9550
+I  9649
+S  5507 true
+I  14127
+S  9476 true
+D 25
+I  2553
+I  1156
+S  12863 true
+I  11663
+S  12078 true
+D 25
+I  11924
+D 25
+I  11387
+D 25
+I  6029
+D 25
+I  8253
+D 25
+I  10831
+I  3909
+D 25
+I  976
+S  12225 true
+D 25
+I  3899
+D 25
+I  11479
+I  7640
+S  14112 true
+D 25
+I  1893
+S  5413 true
+D 25
+I  5612
+I  8558
+S  2718 true
+I  6173
+I  10684
+D 25
+I  3420
+S  73 true
+I  13561
+D 25
+I  6758
+I  2429
+S  3004 true
+I  9029
+D 25
+I  8431
+S  9567 true
+I  1030
+S  2965 true
+D 25
+I  3539
+D 25
+I  3812
+S  5456 true
+D 25
+I  2799
+S  9834 true
+D 25
+I  1745
+S  13741 true
+I  10410
+I  8513
+S  7911 true
+I  3671
+D 25
+I  9322
+S  9135 true
+D 25
+I  7437
+I  7210
+I  13760
+S  11093 true
+D 25
+I  9797
+S  1603 true
+I  17
+D 25
+I  13076
+S  1943 true
+D 25
+I  81
+D 25
+I  11452
+D 25
+I  14860
+S  12876 true
+D 25
+I  9359
+S  2553 true
+I  5017
+S  12146 true
+I  4518
+I  14355
+S  4148 true
+I  8143
+S  4438 true
+D 25
+I  2192
+S  4038 false
+D 25
+I  4244
+D 25
+I  7141
+D 25
+I  5735
+I  10195
+S  2639 true
+I  12455
+S  14204 true
+I  5739
+I  13716
+D 25
+I  9587
+S  12793 true
+I  336
+S  2707 true
+I  3520
+I  9537
+S  14111 true
+I  3713
+S  10908 true
+D 25
+I  11076
+S  9972 false
+I  4004
+S  7857 true
+I  12245
+S  7614 true
+D 25
+I  4494
+S  202 true
+I  14442
+S  7112 true
+D 25
+I  7984
+I  9465
+S  2798 false
+D 25
+I  7303
+I  15
+S  7893 true
+D 25
+I  1268
+S  14368 true
+D 25
+I  8979
+D 25
+I  5613
+S  2843 true
+I  12951
+D 25
+I  3418
+I  13841
+D 25
+I  7485
+S  7408 true
+D 25
+I  9680
+S  13237 true
+I  10362
+I  7202
+I  1528
+S  11981 true
+D 25
+I  5417
+D 25
+I  10787
+S  14398 true
+D 25
+I  2127
+S  745 true
+I  2699
+D 25
+I  10018
+I  14486
+S  6194 true
+D 25
+I  3462
+I  10388
+S  13569 true
+D 25
+I  7385
+I  9378
+S  7469 true
+I  7206
+S  10132 true
+D 25
+I  13238
+S  13459 true
+D 25
+I  9907
+I  9416
+S  4814 true
+D 25
+I  12350
+S  8852 true
+I  8203
+S  6780 true
+D 25
+I  3924
+D 25
+I  2853
+S  11629 true
+I  4300
+S  9301 true
+D 25
+I  1912
+S  2304 true
+I  2798
+S  3206 true
+D 25
+I  8668
+I  913
+S  1009 true
+I  14433
+S  1852 true
+I  10546
+S  1482 true
+I  10578
+D 25
+I  11281
+D 25
+I  2810
+S  5375 true
+D 25
+I  13092
+S  1548 true
+I  11819
+S  971 true
+D 25
+I  6961
+D 25
+I  13488
+S  1048 true
+I  3613
+S  10148 true
+D 25
+I  10117
+S  12220 true
+I  4011
+D 25
+I  2386
+S  9120 true
+D 25
+I  6303
+I  4097
+S  6110 true
+D 25
+I  14072
+I  1175
+S  1205 true
+D 25
+I  10856
+D 25
+I  7372
+I  5939
+S  12232 true
+I  12501
+I  3967
+D 25
+I  3419
+S  10076 true
+D 25
+I  11322
+S  9339 true
+I  189
+I  14784
+S  3409 true
+D 25
+I  11268
+D 25
+I  943
+S  2460 true
+D 25
+I  2052
+S  1893 true
+D 25
+I  6529
+D 25
+I  6101
+S  9441 true
+I  12217
+S  6258 true
+D 25
+I  5938
+I  14927
+S  12709 true
+I  656
+D 25
+I  8046
+I  11566
+D 25
+I  8568
+D 25
+I  4898
+D 25
+I  13361
+S  336 true
+D 25
+I  5197
+I  1379
+S  12436 false
+D 25
+I  2582
+S  14440 true
+D 25
+I  6779
+I  4510
+S  3725 true
+D 25
+I  7670
+S  1754 true
+D 25
+I  12710
+S  5306 true
+D 25
+I  14386
+I  10112
+S  13849 true
+D 25
+I  12990
+I  7494
+S  12868 true
+D 25
+I  7381
+D 25
+I  1807
+S  3479 true
+I  6704
+I  14847
+I  2888
+D 25
+I  14586
+S  12229 true
+I  4894
+I  12355
+S  10870 true
+I  7750
+I  13319
+S  4936 true
+D 25
+I  8804
+S  6755 true
+I  11160
+D 25
+I  14652
+D 25
+I  9937
+D 25
+I  328
+S  10623 true
+D 25
+I  2821
+S  6093 true
+D 25
+I  11873
+I  5592
+S  5379 true
+I  13668
+S  13633 true
+I  8539
+I  3647
+S  9146 true
+D 25
+I  10086
+S  9275 true
+D 25
+I  6534
+D 25
+I  5638
+I  6870
+I  8765
+I  12850
+I  6924
+S  4056 true
+D 25
+I  10209
+D 25
+I  7297
+S  13591 true
+D 25
+I  3090
+S  6108 true
+I  14299
+I  12197
+S  1015 true
+I  2822
+S  894 false
+I  9331
+I  12753
+D 25
+I  10641
+S  8793 true
+D 25
+I  1841
+D 25
+I  2698
+D 25
+I  5791
+D 25
+I  2672
+S  6093 true
+I  1628
+I  584
+I  2430
+S  8539 true
+D 25
+I  6327
+I  1398
+S  10030 true
+D 25
+I  6025
+S  12640 true
+D 25
+I  1394
+D 25
+I  1436
+I  13559
+S  3950 true
+I  9544
+D 25
+I  8752
+S  8063 true
+I  4146
+I  3345
+S  9473 true
+I  7899
+S  14647 true
+I  6789
+D 25
+I  10651
+S  1807 true
+I  346
+D 25
+I  4363
+S  8574 true
+I  8434
+D 25
+I  7740
+D 25
+I  8419
+I  977
+I  2259
+S  5547 true
+I  9112
+I  13503
+S  7754 true
+D 25
+I  4462
+I  9959
+S  14953 true
+I  9814
+S  11515 true
+D 25
+I  14164
+D 25
+I  10192
+S  521 false
+D 25
+I  8160
+I  2329
+S  7039 true
+D 25
+I  12043
+D 25
+I  12053
+D 25
+I  1770
+S  11901 true
+I  9722
+I  14172
+D 25
+I  3759
+S  4734 true
+D 25
+I  1073
+I  7912
+S  5140 true
+D 25
+I  12707
+S  6505 true
+I  8935
+I  13011
+S  10474 true
+I  10707
+I  6525
+S  2449 true
+D 25
+I  12195
+I  12006
+S  7248 true
+I  11614
+S  8646 true
+D 25
+I  5054
+D 25
+I  10312
+D 25
+I  3926
+I  13177
+S  10388 true
+I  12662
+S  12990 true
+I  4351
+S  6345 true
+I  13354
+S  673 true
+I  4689
+S  3643 true
+D 25
+I  5708
+I  1010
+D 25
+I  5945
+D 25
+I  11450
+D 25
+I  13165
+D 25
+I  7308
+I  8296
+D 25
+I  7240
+S  1205 true
+I  3814
+D 25
+I  12213
+S  3170 true
+D 25
+I  13234
+I  3253
+S  2699 true
+I  13565
+D 25
+I  5508
+I  2273
+S  3026 true
+D 25
+I  5978
+S  1366 true
+I  1344
+S  686 true
+D 25
+I  828
+D 25
+I  6473
+I  6696
+D 25
+I  1328
+D 25
+I  3205
+S  8804 true
+I  13362
+I  11420
+I  4405
+I  9270
+S  13509 true
+I  1631
+S  14066 true
+D 25
+I  7468
+D 25
+I  13467
+S  9844 true
+D 25
+I  3964
+S  5647 true
+D 25
+I  3231
+S  13668 true
+D 25
+I  7175
+I  6803
+I  13720
+D 25
+I  4399
+I  9425
+I  76
+I  5434
+S  9380 true
+I  9332
+S  7893 true
+D 25
+I  12857
+S  14550 true
+I  6707
+I  4055
+D 25
+I  3481
+I  11554
+I  3935
+S  12868 true
+I  14420
+D 25
+I  9126
+S  6108 true
+I  4853
+S  10976 true
+I  4427
+D 25
+I  11095
+D 25
+I  3993
+I  4474
+I  14815
+D 25
+I  14881
+S  3484 true
+D 25
+I  79
+S  10991 true
+D 25
+I  4110
+D 25
+I  10309
+D 25
+I  10484
+I  3798
+I  14036
+S  13065 true
+I  13489
+D 25
+I  681
+S  8894 true
+I  6348
+S  8870 false
+I  4250
+I  14002
+S  11383 true
+D 25
+I  12912
+I  14667
+D 25
+I  1502
+S  6755 true
+I  521
+I  13516
+D 25
+I  3106
+S  6665 true
+I  2330
+S  13339 true
+D 25
+I  13536
+I  14630
+S  8832 true
+I  13888
+S  6073 true
+I  8674
+I  9972
+I  3677
+S  5029 true
+D 25
+I  7043
+S  14624 false
+D 25
+I  342
+I  9169
+S  7330 true
+D 25
+I  11240
+S  4882 true
+I  6296
+I  201
+I  12938
+S  11173 true
+I  13167
+D 25
+I  4669
+S  6592 true
+D 25
+I  7026
+D 25
+I  8870
+D 25
+I  14519
+D 25
+I  14354
+I  7907
+D 25
+I  14458
+I  9070
+I  14624
+S  6591 true
+D 25
+I  9352
+D 25
+I  2014
+D 25
+I  10873
+D 25
+I  6450
+S  8732 true
+D 25
+I  4113
+I  13783
+S  5103 true
+I  1968
+I  8857
+S  10600 true
+D 25
+I  1765
+S  2723 true
+D 25
+I  3427
+S  14473 true
+I  7506
+S  3665 true
+D 25
+I  10273
+S  7878 true
+D 25
+I  8790
+S  12024 true
+I  12414
+S  3795 true
+I  11283
+S  10023 true
+I  14381
+S  6733 true
+I  8745
+I  12390
+S  9275 true
+I  555
+S  8832 true
+I  220
+D 25
+I  12436
+I  12647
+S  9391 true
+D 25
+I  1284
+S  12379 true
+D 25
+I  894
+S  1785 true
+D 25
+I  4329
+S  5993 true
+I  14623
+D 25
+I  10032
+S  13652 true
+D 25
+I  9773
+S  12503 true
+I  4038
+S  1462 true
+I  9816
+D 25
+I  10049
+D 25
+I  14663
+D 25
+I  13805
+S  7417 true
+D 25
+I  12729
+S  7830 true
+I  7066
+S  4445 true
+D 25
+I  6470
+D 25
+I  3767
+I  12741
+S  10333 true
+I  5129
+S  8069 true
+D 25
+I  1174
+D 25
+I  6378
+S  2712 true
+D 25
+I  294
+D 25
+I  9319
+D 25
+I  14029
+S  11085 true
+I  3772
+I  13287
+I  11938
+D 25
+I  14694
+I  4985
+S  5074 true
+I  8509
+S  13083 true
+I  8400
+I  7654
+S  13340 true
+I  4112
+I  10393
+I  10733
+T [3, 4, 5, 6, 8, 13, 14, 15, 17, 19, 23, 27, 30, 31, 35, 40, 44, 46, 48, 54, 55, 58, 64, 67, 68, 70, 72, 73, 75, 76, 79, 80, 81, 83, 87, 89, 90, 94, 96, 99, 103, 105, 106, 113, 115, 117, 119, 130, 134, 136, 138, 139, 143, 148, 149, 152, 155, 160, 164, 166, 168, 172, 174, 177, 182, 186, 189, 192, 201, 202, 205, 207, 209, 212, 214, 215, 216, 220, 221, 223, 227, 229, 239, 240, 241, 242, 247, 253, 260, 266, 277, 283, 289, 294, 300, 303, 304, 310, 315, 316, 319, 321, 322, 328, 332, 336, 337, 340, 341, 342, 344, 345, 346, 349, 352, 353, 354, 356, 357, 363, 371, 376, 378, 384, 386, 392, 393, 394, 395, 397, 399, 402, 405, 410, 414, 418, 419, 420, 422, 423, 428, 430, 432, 441, 443, 445, 449, 456, 459, 460, 464, 467, 468, 479, 480, 481, 484, 492, 493, 495, 497, 501, 503, 504, 505, 509, 517, 519, 520, 521, 522, 525, 527, 532, 534, 535, 536, 539, 548, 553, 555, 558, 559, 562, 563, 566, 567, 577, 578, 581, 584, 589, 591, 593, 598, 600, 606, 609, 616, 617, 618, 623, 625, 629, 630, 633, 636, 640, 643, 647, 648, 652, 653, 656, 657, 658, 659, 661, 664, 669, 673, 676, 679, 680, 681, 686, 689, 693, 696, 698, 700, 701, 702, 706, 715, 717, 723, 725, 736, 744, 745, 750, 755, 766, 770, 772, 777, 783, 785, 790, 791, 792, 795, 797, 803, 808, 809, 813, 814, 817, 824, 828, 829, 830, 832, 835, 836, 837, 840, 846, 847, 849, 854, 856, 857, 859, 860, 861, 870, 872, 875, 876, 880, 881, 886, 889, 894, 895, 899, 905, 912, 913, 916, 919, 920, 922, 923, 924, 934, 936, 939, 943, 946, 947, 949, 950, 951, 956, 957, 960, 964, 966, 970, 971, 976, 977, 978, 983, 986, 987, 990, 991, 992, 993, 1002, 1003, 1009, 1010, 1015, 1016, 1018, 1026, 1030, 1031, 1032, 1042, 1043, 1047, 1048, 1049, 1052, 1056, 1057, 1059, 1063, 1064, 1065, 1067, 1069, 1072, 1073, 1075, 1078, 1092, 1098, 1100, 1108, 1111, 1114, 1116, 1118, 1128, 1134, 1138, 1139, 1140, 1145, 1149, 1151, 1154, 1156, 1164, 1166, 1167, 1169, 1170, 1172, 1174, 1175, 1177, 1180, 1183, 1185, 1186, 1187, 1188, 1189, 1193, 1194, 1197, 1198, 1205, 1210, 1211, 1214, 1217, 1222, 1223, 1227, 1239, 1241, 1247, 1250, 1251, 1260, 1263, 1267, 1268, 1273, 1274, 1279, 1284, 1286, 1289, 1291, 1293, 1295, 1297, 1301, 1302, 1304, 1307, 1312, 1313, 1314, 1315, 1319, 1321, 1326, 1327, 1328, 1330, 1334, 1335, 1336, 1341, 1342, 1343, 1344, 1345, 1348, 1352, 1353, 1355, 1360, 1361, 1366, 1368, 1369, 1370, 1375, 1379, 1381, 1382, 1386, 1389, 1394, 1398, 1400, 1402, 1405, 1406, 1411, 1412, 1413, 1417, 1422, 1423, 1424, 1432, 1436, 1439, 1441, 1445, 1449, 1450, 1451, 1454, 1462, 1463, 1465, 1466, 1469, 1475, 1481, 1482, 1491, 1496, 1501, 1502, 1505, 1507, 1511, 1512, 1519, 1524, 1525, 1528, 1529, 1531, 1534, 1538, 1542, 1543, 1545, 1548, 1550, 1555, 1556, 1558, 1562, 1566, 1569, 1571, 1579, 1583, 1584, 1586, 1591, 1600, 1603, 1604, 1605, 1608, 1610, 1612, 1613, 1614, 1615, 1616, 1618, 1620, 1625, 1627, 1628, 1629, 1631, 1633, 1634, 1635, 1636, 1640, 1642, 1647, 1650, 1651, 1652, 1653, 1655, 1659, 1660, 1661, 1662, 1669, 1677, 1678, 1692, 1693, 1694, 1695, 1696, 1702, 1703, 1706, 1707, 1708, 1709, 1711, 1713, 1714, 1715, 1720, 1723, 1734, 1741, 1745, 1748, 1749, 1753, 1754, 1755, 1757, 1759, 1762, 1764, 1765, 1770, 1771, 1772, 1777, 1780, 1782, 1784, 1785, 1786, 1790, 1793, 1794, 1795, 1806, 1807, 1812, 1817, 1818, 1819, 1821, 1824, 1825, 1826, 1834, 1835, 1837, 1838, 1840, 1841, 1844, 1845, 1847, 1849, 1852, 1853, 1857, 1860, 1861, 1862, 1864, 1868, 1874, 1875, 1876, 1877, 1879, 1887, 1893, 1896, 1898, 1899, 1901, 1902, 1905, 1906, 1909, 1910, 1912, 1914, 1921, 1923, 1931, 1937, 1938, 1940, 1942, 1943, 1944, 1947, 1949, 1952, 1965, 1966, 1968, 1969, 1972, 1973, 1977, 1978, 1979, 1980, 1984, 1986, 1995, 1997, 1999, 2001, 2002, 2005, 2008, 2011, 2012, 2014, 2015, 2017, 2020, 2023, 2024, 2025, 2027, 2032, 2034, 2038, 2039, 2040, 2045, 2047, 2049, 2051, 2052, 2053, 2056, 2057, 2061, 2062, 2066, 2068, 2070, 2073, 2075, 2077, 2080, 2087, 2090, 2092, 2096, 2101, 2110, 2113, 2114, 2116, 2124, 2125, 2127, 2128, 2130, 2132, 2135, 2136, 2138, 2141, 2142, 2143, 2149, 2151, 2152, 2154, 2156, 2160, 2161, 2164, 2166, 2171, 2172, 2184, 2185, 2191, 2192, 2193, 2194, 2198, 2201, 2202, 2203, 2207, 2209, 2210, 2212, 2216, 2217, 2221, 2226, 2227, 2228, 2230, 2231, 2240, 2243, 2245, 2246, 2247, 2255, 2259, 2263, 2269, 2273, 2275, 2280, 2282, 2283, 2284, 2286, 2289, 2290, 2292, 2293, 2295, 2301, 2302, 2304, 2305, 2306, 2307, 2310, 2317, 2326, 2329, 2330, 2333, 2336, 2337, 2340, 2344, 2347, 2350, 2351, 2353, 2360, 2362, 2364, 2366, 2369, 2375, 2376, 2377, 2384, 2385, 2386, 2388, 2400, 2402, 2403, 2404, 2406, 2408, 2409, 2411, 2413, 2414, 2416, 2421, 2424, 2427, 2429, 2430, 2439, 2441, 2443, 2444, 2447, 2448, 2449, 2450, 2451, 2452, 2456, 2457, 2458, 2459, 2460, 2463, 2471, 2475, 2478, 2479, 2481, 2485, 2486, 2487, 2496, 2501, 2504, 2509, 2511, 2516, 2524, 2529, 2530, 2533, 2537, 2542, 2545, 2547, 2548, 2553, 2554, 2557, 2559, 2562, 2568, 2569, 2580, 2582, 2585, 2586, 2587, 2588, 2596, 2598, 2599, 2601, 2606, 2608, 2610, 2612, 2621, 2622, 2626, 2631, 2635, 2636, 2637, 2638, 2639, 2643, 2644, 2658, 2661, 2664, 2672, 2674, 2675, 2678, 2681, 2688, 2695, 2696, 2698, 2699, 2700, 2707, 2708, 2710, 2712, 2713, 2716, 2717, 2718, 2720, 2723, 2725, 2726, 2727, 2735, 2740, 2743, 2748, 2755, 2757, 2769, 2773, 2775, 2776, 2783, 2795, 2798, 2799, 2801, 2804, 2805, 2807, 2810, 2817, 2821, 2822, 2824, 2828, 2832, 2834, 2836, 2843, 2849, 2853, 2855, 2858, 2859, 2862, 2864, 2865, 2873, 2874, 2876, 2877, 2880, 2885, 2888, 2893, 2894, 2899, 2900, 2905, 2906, 2908, 2909, 2912, 2913, 2914, 2915, 2919, 2920, 2922, 2923, 2928, 2930, 2934, 2936, 2939, 2940, 2943, 2944, 2946, 2958, 2959, 2960, 2964, 2965, 2967, 2970, 2972, 2973, 2978, 2980, 2981, 2985, 2994, 2995, 2997, 3004, 3006, 3008, 3009, 3012, 3013, 3018, 3024, 3026, 3027, 3028, 3029, 3030, 3031, 3032, 3034, 3036, 3038, 3041, 3042, 3044, 3046, 3048, 3055, 3056, 3059, 3063, 3068, 3070, 3072, 3079, 3080, 3087, 3088, 3090, 3092, 3095, 3097, 3099, 3100, 3101, 3105, 3106, 3108, 3110, 3113, 3115, 3116, 3118, 3128, 3131, 3134, 3142, 3146, 3150, 3151, 3156, 3157, 3161, 3162, 3165, 3169, 3170, 3180, 3181, 3186, 3189, 3191, 3196, 3199, 3200, 3204, 3205, 3206, 3209, 3210, 3211, 3213, 3215, 3220, 3223, 3225, 3226, 3231, 3238, 3241, 3243, 3244, 3246, 3251, 3252, 3253, 3254, 3257, 3259, 3269, 3271, 3272, 3273, 3278, 3279, 3281, 3282, 3284, 3286, 3287, 3291, 3294, 3296, 3297, 3303, 3305, 3308, 3316, 3318, 3323, 3324, 3325, 3326, 3327, 3331, 3335, 3339, 3342, 3345, 3349, 3350, 3355, 3356, 3357, 3358, 3360, 3365, 3367, 3369, 3375, 3377, 3386, 3387, 3388, 3395, 3396, 3398, 3402, 3403, 3405, 3409, 3417, 3418, 3419, 3420, 3423, 3424, 3427, 3430, 3431, 3435, 3436, 3442, 3448, 3449, 3453, 3454, 3459, 3462, 3464, 3467, 3468, 3472, 3479, 3480, 3481, 3484, 3488, 3496, 3497, 3504, 3506, 3509, 3515, 3516, 3520, 3521, 3522, 3524, 3528, 3529, 3533, 3535, 3536, 3538, 3539, 3543, 3545, 3558, 3563, 3567, 3569, 3570, 3571, 3575, 3585, 3589, 3590, 3593, 3595, 3599, 3601, 3605, 3606, 3608, 3611, 3612, 3613, 3616, 3618, 3619, 3622, 3626, 3639, 3643, 3647, 3650, 3652, 3654, 3664, 3665, 3666, 3667, 3671, 3672, 3673, 3676, 3677, 3691, 3695, 3698, 3700, 3708, 3713, 3723, 3724, 3725, 3734, 3738, 3744, 3745, 3746, 3747, 3750, 3752, 3753, 3755, 3756, 3757, 3759, 3763, 3767, 3772, 3786, 3789, 3790, 3792, 3793, 3795, 3798, 3803, 3812, 3813, 3814, 3816, 3817, 3819, 3820, 3828, 3830, 3834, 3837, 3842, 3859, 3860, 3864, 3866, 3871, 3872, 3874, 3877, 3878, 3879, 3881, 3882, 3885, 3889, 3890, 3897, 3899, 3906, 3907, 3909, 3913, 3923, 3924, 3926, 3929, 3935, 3944, 3948, 3949, 3950, 3952, 3956, 3957, 3959, 3960, 3964, 3967, 3968, 3969, 3971, 3977, 3980, 3982, 3987, 3993, 3994, 3995, 3996, 4002, 4004, 4005, 4009, 4011, 4019, 4021, 4026, 4027, 4032, 4038, 4040, 4041, 4047, 4048, 4050, 4051, 4054, 4055, 4056, 4068, 4069, 4071, 4074, 4076, 4077, 4079, 4084, 4085, 4092, 4093, 4094, 4095, 4096, 4097, 4107, 4108, 4110, 4112, 4113, 4120, 4123, 4125, 4126, 4129, 4130, 4132, 4133, 4135, 4138, 4139, 4140, 4144, 4145, 4146, 4148, 4149, 4150, 4153, 4159, 4162, 4164, 4166, 4170, 4171, 4175, 4176, 4179, 4187, 4190, 4191, 4198, 4199, 4202, 4203, 4212, 4215, 4216, 4218, 4219, 4224, 4233, 4234, 4235, 4237, 4238, 4239, 4241, 4243, 4244, 4246, 4250, 4254, 4258, 4259, 4262, 4264, 4265, 4269, 4275, 4277, 4281, 4286, 4291, 4298, 4300, 4308, 4313, 4315, 4318, 4320, 4321, 4322, 4325, 4329, 4334, 4338, 4344, 4349, 4351, 4356, 4363, 4364, 4368, 4373, 4376, 4377, 4380, 4381, 4382, 4384, 4390, 4391, 4392, 4394, 4395, 4398, 4399, 4405, 4410, 4412, 4417, 4418, 4427, 4434, 4435, 4436, 4438, 4439, 4440, 4445, 4448, 4456, 4461, 4462, 4465, 4466, 4467, 4470, 4471, 4472, 4473, 4474, 4476, 4477, 4479, 4482, 4484, 4486, 4488, 4489, 4491, 4494, 4496, 4498, 4500, 4505, 4510, 4518, 4519, 4522, 4524, 4525, 4526, 4527, 4528, 4532, 4535, 4536, 4541, 4542, 4543, 4544, 4547, 4549, 4551, 4552, 4555, 4562, 4563, 4564, 4565, 4568, 4569, 4588, 4590, 4592, 4595, 4598, 4606, 4609, 4613, 4621, 4622, 4623, 4630, 4637, 4639, 4643, 4644, 4646, 4647, 4648, 4650, 4651, 4667, 4669, 4681, 4688, 4689, 4697, 4704, 4708, 4710, 4711, 4716, 4722, 4724, 4726, 4727, 4728, 4730, 4731, 4734, 4735, 4736, 4737, 4739, 4740, 4741, 4743, 4745, 4747, 4750, 4753, 4758, 4759, 4760, 4761, 4765, 4766, 4771, 4773, 4774, 4777, 4780, 4781, 4782, 4789, 4795, 4806, 4807, 4808, 4809, 4810, 4814, 4815, 4822, 4825, 4834, 4836, 4837, 4843, 4844, 4846, 4852, 4853, 4855, 4856, 4861, 4862, 4864, 4867, 4870, 4876, 4878, 4879, 4880, 4882, 4883, 4885, 4893, 4894, 4897, 4898, 4905, 4907, 4913, 4914, 4915, 4916, 4917, 4919, 4922, 4925, 4929, 4935, 4936, 4944, 4949, 4953, 4954, 4957, 4966, 4967, 4969, 4971, 4973, 4975, 4976, 4979, 4985, 4986, 4990, 4994, 4996, 5002, 5008, 5011, 5017, 5029, 5034, 5036, 5038, 5043, 5051, 5054, 5055, 5060, 5064, 5067, 5068, 5072, 5074, 5080, 5085, 5090, 5094, 5097, 5100, 5103, 5111, 5114, 5118, 5122, 5128, 5129, 5130, 5131, 5132, 5140, 5145, 5151, 5152, 5153, 5159, 5161, 5162, 5165, 5166, 5167, 5177, 5179, 5182, 5193, 5194, 5197, 5201, 5207, 5213, 5215, 5219, 5222, 5223, 5225, 5227, 5231, 5232, 5237, 5243, 5249, 5250, 5251, 5256, 5257, 5258, 5259, 5265, 5266, 5267, 5270, 5273, 5274, 5277, 5279, 5281, 5284, 5287, 5292, 5293, 5294, 5296, 5297, 5302, 5303, 5304, 5305, 5306, 5310, 5311, 5313, 5314, 5315, 5320, 5322, 5324, 5326, 5327, 5328, 5330, 5331, 5332, 5333, 5334, 5336, 5341, 5342, 5343, 5347, 5350, 5352, 5353, 5356, 5359, 5361, 5362, 5369, 5372, 5374, 5375, 5377, 5379, 5381, 5383, 5385, 5386, 5388, 5391, 5393, 5396, 5398, 5399, 5402, 5407, 5412, 5413, 5414, 5417, 5420, 5423, 5424, 5425, 5426, 5433, 5434, 5435, 5438, 5442, 5446, 5447, 5448, 5450, 5456, 5458, 5459, 5461, 5464, 5466, 5469, 5477, 5478, 5479, 5480, 5482, 5483, 5486, 5487, 5488, 5493, 5495, 5497, 5498, 5504, 5507, 5508, 5513, 5516, 5523, 5524, 5530, 5533, 5534, 5538, 5541, 5545, 5547, 5549, 5550, 5551, 5553, 5554, 5555, 5557, 5560, 5561, 5568, 5569, 5570, 5571, 5576, 5580, 5581, 5582, 5583, 5587, 5589, 5592, 5598, 5602, 5605, 5606, 5608, 5609, 5611, 5612, 5613, 5614, 5616, 5621, 5626, 5633, 5634, 5638, 5642, 5643, 5646, 5647, 5652, 5654, 5656, 5659, 5660, 5662, 5671, 5676, 5677, 5678, 5679, 5685, 5689, 5691, 5699, 5701, 5703, 5706, 5708, 5709, 5710, 5715, 5718, 5721, 5726, 5727, 5732, 5735, 5737, 5739, 5744, 5745, 5746, 5748, 5750, 5754, 5766, 5770, 5771, 5773, 5776, 5777, 5779, 5780, 5782, 5783, 5785, 5786, 5787, 5790, 5791, 5793, 5797, 5804, 5805, 5813, 5816, 5819, 5823, 5824, 5826, 5830, 5831, 5832, 5833, 5834, 5835, 5836, 5837, 5838, 5839, 5841, 5843, 5845, 5855, 5860, 5861, 5864, 5867, 5869, 5872, 5876, 5879, 5883, 5886, 5890, 5891, 5894, 5899, 5900, 5904, 5910, 5911, 5913, 5917, 5920, 5923, 5924, 5927, 5931, 5934, 5938, 5939, 5940, 5943, 5944, 5945, 5946, 5956, 5959, 5963, 5972, 5973, 5975, 5976, 5978, 5985, 5987, 5990, 5993, 5998, 6007, 6008, 6009, 6010, 6011, 6012, 6021, 6025, 6026, 6029, 6035, 6037, 6039, 6042, 6043, 6046, 6048, 6049, 6052, 6053, 6054, 6058, 6063, 6064, 6069, 6070, 6071, 6073, 6074, 6079, 6081, 6082, 6085, 6093, 6097, 6099, 6101, 6102, 6104, 6108, 6110, 6117, 6120, 6127, 6128, 6129, 6130, 6133, 6135, 6136, 6138, 6142, 6144, 6147, 6149, 6150, 6152, 6160, 6162, 6163, 6168, 6173, 6176, 6177, 6185, 6187, 6188, 6194, 6196, 6197, 6198, 6202, 6203, 6208, 6211, 6215, 6227, 6229, 6230, 6232, 6234, 6235, 6236, 6237, 6238, 6245, 6258, 6259, 6261, 6266, 6268, 6271, 6274, 6276, 6277, 6283, 6287, 6293, 6294, 6296, 6298, 6301, 6303, 6306, 6307, 6308, 6313, 6322, 6327, 6329, 6333, 6342, 6345, 6347, 6348, 6350, 6358, 6364, 6366, 6371, 6373, 6376, 6378, 6384, 6386, 6387, 6388, 6389, 6391, 6393, 6394, 6403, 6405, 6407, 6410, 6412, 6417, 6421, 6422, 6424, 6433, 6438, 6441, 6442, 6446, 6449, 6450, 6453, 6454, 6455, 6463, 6470, 6473, 6477, 6478, 6479, 6489, 6492, 6496, 6499, 6505, 6510, 6512, 6518, 6520, 6525, 6527, 6528, 6529, 6532, 6534, 6535, 6539, 6546, 6547, 6548, 6556, 6563, 6564, 6567, 6570, 6571, 6575, 6579, 6582, 6585, 6588, 6591, 6592, 6599, 6602, 6603, 6610, 6614, 6616, 6624, 6626, 6627, 6634, 6637, 6643, 6648, 6649, 6660, 6664, 6665, 6666, 6668, 6670, 6676, 6677, 6679, 6682, 6684, 6687, 6688, 6689, 6692, 6695, 6696, 6697, 6702, 6704, 6707, 6713, 6722, 6724, 6727, 6728, 6730, 6733, 6744, 6747, 6754, 6755, 6758, 6759, 6760, 6762, 6763, 6766, 6767, 6768, 6773, 6776, 6779, 6780, 6784, 6785, 6786, 6789, 6791, 6796, 6797, 6802, 6803, 6805, 6813, 6814, 6816, 6823, 6824, 6826, 6829, 6830, 6832, 6834, 6835, 6842, 6849, 6850, 6852, 6856, 6862, 6865, 6866, 6870, 6882, 6883, 6889, 6891, 6898, 6907, 6909, 6914, 6916, 6917, 6921, 6923, 6924, 6939, 6943, 6944, 6946, 6947, 6948, 6953, 6956, 6958, 6961, 6962, 6964, 6971, 6972, 6974, 6978, 6983, 6985, 6998, 7000, 7002, 7004, 7005, 7006, 7010, 7011, 7015, 7016, 7025, 7026, 7027, 7028, 7030, 7039, 7040, 7043, 7052, 7058, 7061, 7064, 7065, 7066, 7068, 7070, 7072, 7074, 7080, 7081, 7083, 7085, 7087, 7088, 7090, 7092, 7095, 7097, 7111, 7112, 7113, 7114, 7116, 7117, 7120, 7124, 7128, 7131, 7132, 7134, 7137, 7138, 7141, 7144, 7145, 7146, 7159, 7162, 7163, 7164, 7166, 7167, 7171, 7172, 7173, 7175, 7177, 7178, 7179, 7181, 7184, 7195, 7202, 7206, 7210, 7212, 7214, 7219, 7221, 7223, 7224, 7229, 7231, 7233, 7234, 7236, 7240, 7248, 7250, 7254, 7263, 7265, 7266, 7273, 7281, 7282, 7283, 7285, 7287, 7297, 7302, 7303, 7306, 7308, 7314, 7316, 7320, 7324, 7330, 7346, 7348, 7357, 7358, 7359, 7361, 7364, 7368, 7369, 7370, 7371, 7372, 7380, 7381, 7383, 7385, 7386, 7389, 7392, 7394, 7400, 7401, 7405, 7407, 7408, 7413, 7415, 7417, 7418, 7419, 7421, 7423, 7426, 7428, 7430, 7431, 7435, 7437, 7438, 7442, 7445, 7447, 7450, 7456, 7458, 7460, 7462, 7464, 7466, 7468, 7469, 7470, 7472, 7477, 7479, 7480, 7482, 7483, 7485, 7488, 7494, 7496, 7500, 7502, 7503, 7506, 7510, 7512, 7517, 7522, 7531, 7541, 7543, 7547, 7551, 7553, 7562, 7563, 7566, 7570, 7587, 7590, 7595, 7600, 7606, 7610, 7612, 7614, 7617, 7627, 7628, 7635, 7639, 7640, 7641, 7645, 7647, 7652, 7654, 7656, 7663, 7664, 7666, 7668, 7669, 7670, 7674, 7678, 7681, 7683, 7686, 7693, 7696, 7699, 7701, 7703, 7704, 7705, 7706, 7707, 7711, 7719, 7721, 7722, 7724, 7727, 7733, 7734, 7737, 7739, 7740, 7741, 7746, 7748, 7750, 7753, 7754, 7755, 7764, 7765, 7771, 7777, 7780, 7789, 7790, 7794, 7795, 7799, 7800, 7802, 7813, 7814, 7816, 7823, 7824, 7827, 7830, 7832, 7834, 7837, 7841, 7843, 7852, 7853, 7856, 7857, 7860, 7862, 7871, 7873, 7877, 7878, 7880, 7885, 7887, 7890, 7892, 7893, 7894, 7899, 7900, 7904, 7905, 7906, 7907, 7909, 7911, 7912, 7915, 7916, 7919, 7920, 7923, 7927, 7928, 7929, 7940, 7943, 7949, 7954, 7957, 7958, 7961, 7970, 7972, 7977, 7982, 7984, 7986, 7991, 7992, 7994, 7999, 8008, 8011, 8013, 8015, 8022, 8026, 8029, 8031, 8034, 8035, 8036, 8039, 8040, 8041, 8045, 8046, 8048, 8053, 8054, 8059, 8060, 8063, 8066, 8067, 8069, 8071, 8073, 8078, 8082, 8083, 8086, 8089, 8096, 8101, 8102, 8108, 8114, 8122, 8123, 8124, 8126, 8128, 8129, 8133, 8134, 8136, 8137, 8142, 8143, 8145, 8148, 8156, 8159, 8160, 8166, 8175, 8176, 8189, 8191, 8195, 8196, 8201, 8203, 8210, 8211, 8213, 8219, 8222, 8223, 8226, 8229, 8230, 8231, 8238, 8239, 8245, 8247, 8250, 8251, 8253, 8256, 8261, 8262, 8264, 8266, 8268, 8271, 8272, 8274, 8277, 8285, 8293, 8296, 8297, 8307, 8308, 8309, 8311, 8314, 8316, 8318, 8319, 8325, 8327, 8328, 8330, 8334, 8339, 8340, 8342, 8347, 8348, 8350, 8352, 8356, 8358, 8359, 8363, 8366, 8368, 8371, 8376, 8382, 8388, 8389, 8397, 8399, 8400, 8401, 8402, 8405, 8407, 8408, 8412, 8419, 8424, 8427, 8429, 8430, 8431, 8434, 8438, 8439, 8441, 8444, 8448, 8457, 8462, 8466, 8480, 8484, 8491, 8492, 8493, 8496, 8497, 8501, 8505, 8508, 8509, 8510, 8513, 8517, 8526, 8528, 8532, 8535, 8536, 8539, 8540, 8541, 8544, 8549, 8553, 8558, 8564, 8568, 8569, 8574, 8579, 8580, 8581, 8585, 8586, 8592, 8594, 8596, 8598, 8600, 8605, 8607, 8608, 8609, 8611, 8616, 8617, 8625, 8628, 8631, 8633, 8638, 8640, 8646, 8648, 8649, 8653, 8654, 8655, 8657, 8658, 8659, 8661, 8664, 8665, 8667, 8668, 8671, 8674, 8675, 8676, 8678, 8680, 8682, 8685, 8686, 8687, 8691, 8693, 8694, 8696, 8700, 8704, 8713, 8717, 8722, 8724, 8726, 8728, 8730, 8732, 8738, 8739, 8741, 8742, 8743, 8745, 8748, 8749, 8752, 8756, 8757, 8761, 8764, 8765, 8766, 8771, 8781, 8786, 8787, 8789, 8790, 8792, 8793, 8794, 8800, 8801, 8803, 8804, 8805, 8808, 8809, 8811, 8814, 8815, 8822, 8823, 8824, 8831, 8832, 8843, 8846, 8847, 8852, 8853, 8857, 8858, 8859, 8860, 8865, 8870, 8871, 8876, 8878, 8880, 8881, 8888, 8889, 8894, 8898, 8899, 8904, 8905, 8908, 8916, 8917, 8918, 8922, 8925, 8928, 8930, 8932, 8934, 8935, 8936, 8941, 8942, 8949, 8961, 8966, 8973, 8978, 8979, 8989, 8992, 8994, 8995, 8997, 9000, 9001, 9002, 9012, 9019, 9020, 9025, 9027, 9028, 9029, 9031, 9043, 9046, 9055, 9060, 9064, 9066, 9068, 9070, 9071, 9073, 9075, 9076, 9078, 9081, 9084, 9086, 9090, 9092, 9102, 9103, 9105, 9108, 9109, 9112, 9120, 9121, 9122, 9124, 9126, 9129, 9132, 9135, 9136, 9144, 9146, 9147, 9155, 9161, 9164, 9165, 9169, 9172, 9173, 9179, 9184, 9185, 9186, 9187, 9189, 9197, 9200, 9203, 9208, 9211, 9215, 9216, 9219, 9220, 9221, 9223, 9225, 9226, 9231, 9235, 9236, 9240, 9244, 9245, 9246, 9250, 9252, 9254, 9258, 9259, 9260, 9265, 9270, 9273, 9275, 9276, 9279, 9282, 9285, 9286, 9288, 9289, 9293, 9297, 9298, 9300, 9301, 9302, 9309, 9310, 9318, 9319, 9320, 9321, 9322, 9323, 9328, 9331, 9332, 9334, 9335, 9337, 9338, 9339, 9344, 9348, 9349, 9350, 9352, 9359, 9360, 9366, 9367, 9370, 9373, 9374, 9378, 9380, 9381, 9390, 9391, 9396, 9397, 9399, 9401, 9403, 9404, 9409, 9410, 9415, 9416, 9418, 9419, 9425, 9428, 9430, 9436, 9438, 9440, 9441, 9445, 9446, 9447, 9449, 9451, 9454, 9455, 9457, 9458, 9465, 9466, 9470, 9473, 9476, 9478, 9484, 9495, 9498, 9499, 9500, 9504, 9505, 9514, 9515, 9516, 9524, 9526, 9532, 9533, 9535, 9537, 9544, 9545, 9546, 9547, 9548, 9549, 9550, 9553, 9557, 9558, 9567, 9571, 9577, 9587, 9588, 9600, 9606, 9617, 9629, 9631, 9632, 9638, 9641, 9642, 9648, 9649, 9653, 9661, 9667, 9668, 9670, 9673, 9675, 9680, 9688, 9691, 9696, 9700, 9702, 9704, 9706, 9709, 9715, 9719, 9721, 9722, 9725, 9728, 9729, 9734, 9735, 9739, 9747, 9748, 9749, 9750, 9752, 9758, 9759, 9762, 9763, 9765, 9766, 9768, 9773, 9776, 9778, 9780, 9781, 9786, 9793, 9794, 9795, 9797, 9799, 9804, 9807, 9814, 9815, 9816, 9821, 9823, 9824, 9828, 9830, 9834, 9836, 9837, 9840, 9841, 9844, 9849, 9856, 9860, 9866, 9869, 9874, 9876, 9877, 9879, 9881, 9885, 9890, 9892, 9896, 9897, 9900, 9905, 9907, 9908, 9909, 9915, 9921, 9923, 9925, 9926, 9927, 9929, 9930, 9937, 9938, 9940, 9943, 9944, 9947, 9957, 9958, 9959, 9964, 9965, 9966, 9968, 9972, 9973, 9974, 9976, 9980, 9981, 9992, 9993, 9998, 10004, 10005, 10006, 10008, 10010, 10011, 10013, 10018, 10019, 10022, 10023, 10024, 10028, 10029, 10030, 10031, 10032, 10041, 10042, 10044, 10047, 10049, 10053, 10054, 10059, 10069, 10070, 10076, 10080, 10081, 10084, 10085, 10086, 10090, 10091, 10093, 10094, 10095, 10096, 10101, 10103, 10104, 10105, 10106, 10112, 10115, 10117, 10119, 10121, 10124, 10125, 10127, 10132, 10139, 10140, 10148, 10152, 10154, 10155, 10157, 10159, 10163, 10164, 10166, 10167, 10174, 10175, 10184, 10192, 10193, 10195, 10197, 10198, 10200, 10206, 10207, 10209, 10219, 10220, 10221, 10222, 10224, 10229, 10230, 10232, 10233, 10234, 10235, 10237, 10238, 10246, 10247, 10249, 10250, 10251, 10256, 10259, 10264, 10265, 10266, 10269, 10270, 10271, 10273, 10274, 10275, 10276, 10277, 10282, 10284, 10287, 10292, 10293, 10298, 10303, 10305, 10306, 10307, 10309, 10310, 10312, 10314, 10318, 10322, 10323, 10326, 10328, 10329, 10330, 10333, 10334, 10343, 10349, 10351, 10352, 10358, 10359, 10360, 10362, 10363, 10364, 10367, 10370, 10371, 10372, 10380, 10382, 10384, 10388, 10392, 10393, 10404, 10408, 10409, 10410, 10420, 10426, 10427, 10431, 10434, 10435, 10437, 10440, 10448, 10456, 10460, 10462, 10470, 10472, 10474, 10476, 10479, 10480, 10482, 10484, 10485, 10487, 10488, 10491, 10495, 10496, 10502, 10503, 10505, 10510, 10513, 10519, 10523, 10531, 10532, 10534, 10535, 10537, 10539, 10540, 10546, 10548, 10551, 10557, 10560, 10569, 10570, 10571, 10572, 10573, 10574, 10578, 10580, 10582, 10584, 10588, 10590, 10592, 10596, 10600, 10609, 10617, 10618, 10620, 10621, 10622, 10623, 10626, 10627, 10629, 10631, 10633, 10634, 10641, 10645, 10649, 10650, 10651, 10652, 10653, 10654, 10659, 10661, 10665, 10666, 10668, 10669, 10674, 10675, 10679, 10681, 10684, 10686, 10691, 10692, 10694, 10699, 10700, 10707, 10708, 10713, 10718, 10721, 10728, 10733, 10735, 10737, 10738, 10744, 10747, 10749, 10751, 10752, 10753, 10754, 10755, 10757, 10759, 10760, 10763, 10765, 10768, 10777, 10780, 10781, 10787, 10788, 10789, 10792, 10794, 10798, 10801, 10803, 10805, 10807, 10808, 10812, 10816, 10817, 10819, 10821, 10823, 10824, 10826, 10827, 10829, 10830, 10831, 10833, 10834, 10835, 10836, 10837, 10840, 10843, 10844, 10849, 10851, 10856, 10859, 10860, 10862, 10865, 10868, 10870, 10873, 10874, 10876, 10877, 10886, 10894, 10895, 10897, 10899, 10900, 10902, 10908, 10911, 10912, 10916, 10918, 10921, 10922, 10925, 10926, 10931, 10935, 10936, 10937, 10943, 10950, 10953, 10957, 10958, 10962, 10963, 10971, 10973, 10976, 10985, 10991, 10996, 10997, 10998, 11008, 11009, 11011, 11014, 11019, 11023, 11024, 11028, 11029, 11031, 11033, 11037, 11041, 11042, 11044, 11047, 11048, 11051, 11053, 11058, 11063, 11064, 11068, 11069, 11072, 11073, 11074, 11076, 11079, 11081, 11084, 11085, 11093, 11095, 11097, 11100, 11102, 11104, 11109, 11110, 11112, 11115, 11121, 11128, 11129, 11138, 11141, 11142, 11146, 11147, 11148, 11150, 11155, 11157, 11160, 11167, 11173, 11182, 11183, 11185, 11187, 11188, 11193, 11198, 11201, 11205, 11214, 11215, 11216, 11217, 11223, 11224, 11225, 11229, 11230, 11235, 11240, 11243, 11245, 11249, 11250, 11251, 11254, 11255, 11256, 11268, 11270, 11273, 11274, 11275, 11278, 11280, 11281, 11283, 11286, 11288, 11292, 11295, 11298, 11299, 11302, 11306, 11307, 11308, 11310, 11311, 11315, 11322, 11327, 11328, 11329, 11331, 11332, 11333, 11337, 11339, 11341, 11345, 11346, 11348, 11350, 11353, 11354, 11358, 11361, 11366, 11374, 11376, 11377, 11378, 11383, 11384, 11387, 11388, 11392, 11397, 11399, 11404, 11405, 11414, 11415, 11416, 11418, 11419, 11420, 11428, 11435, 11436, 11438, 11439, 11440, 11441, 11442, 11446, 11450, 11451, 11452, 11453, 11454, 11456, 11460, 11464, 11472, 11478, 11479, 11480, 11484, 11486, 11488, 11492, 11497, 11502, 11503, 11506, 11507, 11512, 11515, 11518, 11524, 11526, 11528, 11530, 11534, 11535, 11538, 11541, 11542, 11544, 11546, 11547, 11553, 11554, 11558, 11559, 11560, 11564, 11565, 11566, 11570, 11574, 11575, 11576, 11582, 11589, 11591, 11594, 11603, 11607, 11609, 11614, 11617, 11618, 11620, 11621, 11622, 11623, 11626, 11629, 11631, 11635, 11636, 11640, 11643, 11645, 11647, 11648, 11654, 11656, 11658, 11660, 11661, 11663, 11669, 11671, 11672, 11674, 11677, 11679, 11682, 11688, 11693, 11696, 11697, 11700, 11701, 11702, 11705, 11715, 11719, 11723, 11727, 11730, 11733, 11734, 11738, 11740, 11742, 11743, 11746, 11747, 11748, 11750, 11751, 11753, 11755, 11757, 11758, 11760, 11768, 11769, 11770, 11775, 11785, 11787, 11788, 11791, 11793, 11795, 11798, 11800, 11802, 11804, 11808, 11809, 11810, 11812, 11819, 11820, 11825, 11827, 11832, 11833, 11842, 11848, 11858, 11862, 11873, 11875, 11877, 11879, 11882, 11883, 11888, 11895, 11897, 11898, 11900, 11901, 11902, 11903, 11908, 11909, 11911, 11913, 11916, 11917, 11919, 11920, 11921, 11924, 11928, 11933, 11937, 11938, 11939, 11942, 11944, 11949, 11950, 11952, 11958, 11964, 11965, 11966, 11967, 11970, 11975, 11976, 11979, 11981, 11984, 11991, 11994, 12004, 12006, 12007, 12011, 12012, 12016, 12018, 12023, 12024, 12030, 12032, 12036, 12039, 12043, 12044, 12048, 12049, 12050, 12051, 12053, 12058, 12064, 12070, 12072, 12078, 12082, 12083, 12084, 12097, 12101, 12107, 12117, 12122, 12126, 12127, 12131, 12137, 12144, 12146, 12153, 12154, 12170, 12171, 12174, 12176, 12182, 12195, 12197, 12201, 12202, 12203, 12205, 12211, 12212, 12213, 12217, 12220, 12225, 12228, 12229, 12232, 12234, 12235, 12237, 12238, 12242, 12244, 12245, 12247, 12248, 12250, 12252, 12254, 12256, 12258, 12261, 12265, 12274, 12277, 12280, 12282, 12285, 12289, 12291, 12294, 12295, 12296, 12298, 12299, 12305, 12306, 12307, 12311, 12312, 12313, 12316, 12318, 12322, 12323, 12324, 12325, 12330, 12341, 12344, 12348, 12350, 12351, 12352, 12353, 12355, 12357, 12363, 12365, 12366, 12371, 12377, 12379, 12384, 12387, 12390, 12397, 12407, 12409, 12411, 12412, 12414, 12415, 12418, 12420, 12421, 12422, 12425, 12430, 12431, 12434, 12435, 12436, 12442, 12445, 12453, 12455, 12459, 12461, 12463, 12466, 12469, 12473, 12478, 12479, 12482, 12484, 12486, 12489, 12491, 12501, 12502, 12503, 12504, 12506, 12509, 12516, 12517, 12520, 12524, 12530, 12533, 12534, 12536, 12540, 12541, 12542, 12543, 12545, 12546, 12552, 12555, 12563, 12564, 12570, 12576, 12578, 12583, 12584, 12586, 12590, 12591, 12594, 12600, 12608, 12610, 12611, 12612, 12614, 12618, 12620, 12622, 12624, 12630, 12637, 12638, 12640, 12647, 12649, 12651, 12652, 12653, 12654, 12657, 12662, 12663, 12665, 12674, 12684, 12686, 12690, 12694, 12699, 12700, 12705, 12706, 12707, 12709, 12710, 12715, 12717, 12721, 12722, 12724, 12729, 12733, 12735, 12736, 12737, 12741, 12743, 12744, 12746, 12752, 12753, 12759, 12761, 12766, 12767, 12768, 12773, 12781, 12783, 12784, 12786, 12787, 12793, 12798, 12802, 12804, 12809, 12813, 12815, 12821, 12822, 12829, 12830, 12832, 12838, 12843, 12847, 12849, 12850, 12851, 12852, 12855, 12857, 12863, 12865, 12867, 12868, 12874, 12876, 12880, 12882, 12884, 12890, 12891, 12892, 12905, 12908, 12912, 12914, 12916, 12917, 12918, 12920, 12926, 12927, 12928, 12930, 12932, 12933, 12935, 12937, 12938, 12939, 12940, 12942, 12943, 12945, 12946, 12947, 12949, 12951, 12954, 12956, 12957, 12960, 12964, 12965, 12972, 12973, 12976, 12979, 12985, 12987, 12989, 12990, 12992, 12995, 12998, 12999, 13004, 13006, 13009, 13011, 13012, 13021, 13022, 13023, 13027, 13028, 13031, 13038, 13039, 13046, 13052, 13054, 13061, 13064, 13065, 13066, 13067, 13075, 13076, 13078, 13083, 13085, 13088, 13092, 13099, 13102, 13106, 13111, 13112, 13115, 13118, 13121, 13122, 13123, 13125, 13127, 13128, 13129, 13130, 13138, 13140, 13145, 13149, 13150, 13158, 13161, 13163, 13164, 13165, 13167, 13170, 13177, 13178, 13179, 13180, 13181, 13182, 13187, 13190, 13194, 13196, 13199, 13202, 13203, 13205, 13207, 13224, 13225, 13226, 13228, 13231, 13233, 13234, 13236, 13237, 13238, 13239, 13241, 13243, 13250, 13251, 13259, 13267, 13268, 13270, 13273, 13275, 13278, 13279, 13282, 13283, 13287, 13290, 13294, 13299, 13301, 13304, 13306, 13309, 13311, 13312, 13314, 13318, 13319, 13323, 13324, 13334, 13335, 13339, 13340, 13346, 13348, 13349, 13351, 13354, 13355, 13356, 13361, 13362, 13363, 13365, 13376, 13377, 13381, 13382, 13383, 13385, 13388, 13389, 13392, 13394, 13397, 13398, 13400, 13401, 13408, 13411, 13414, 13415, 13418, 13422, 13426, 13430, 13435, 13437, 13441, 13445, 13459, 13460, 13461, 13463, 13464, 13465, 13467, 13468, 13470, 13471, 13474, 13479, 13483, 13488, 13489, 13493, 13495, 13497, 13501, 13503, 13505, 13506, 13509, 13513, 13516, 13518, 13519, 13520, 13522, 13528, 13531, 13532, 13533, 13536, 13538, 13542, 13544, 13548, 13550, 13552, 13555, 13556, 13557, 13558, 13559, 13561, 13562, 13563, 13565, 13568, 13569, 13572, 13573, 13578, 13582, 13583, 13584, 13585, 13586, 13587, 13591, 13594, 13603, 13608, 13609, 13610, 13611, 13612, 13613, 13614, 13615, 13617, 13622, 13628, 13630, 13631, 13633, 13635, 13636, 13637, 13638, 13639, 13641, 13642, 13648, 13651, 13652, 13656, 13666, 13667, 13668, 13671, 13675, 13677, 13678, 13679, 13686, 13688, 13692, 13694, 13695, 13699, 13704, 13707, 13708, 13710, 13715, 13716, 13717, 13719, 13720, 13724, 13728, 13729, 13732, 13733, 13734, 13739, 13741, 13742, 13743, 13752, 13757, 13760, 13761, 13762, 13765, 13769, 13772, 13775, 13776, 13778, 13779, 13781, 13782, 13783, 13791, 13793, 13794, 13797, 13803, 13805, 13807, 13810, 13814, 13817, 13819, 13821, 13828, 13830, 13832, 13835, 13840, 13841, 13844, 13847, 13849, 13851, 13854, 13859, 13860, 13865, 13870, 13871, 13878, 13882, 13885, 13886, 13888, 13893, 13899, 13900, 13902, 13904, 13910, 13914, 13918, 13922, 13924, 13925, 13931, 13937, 13941, 13944, 13946, 13950, 13951, 13953, 13955, 13956, 13959, 13964, 13967, 13969, 13970, 13971, 13975, 13978, 13984, 13987, 13988, 13993, 14002, 14004, 14023, 14026, 14028, 14029, 14034, 14036, 14038, 14039, 14044, 14045, 14046, 14056, 14059, 14061, 14063, 14066, 14068, 14072, 14079, 14081, 14082, 14087, 14090, 14091, 14094, 14096, 14099, 14101, 14102, 14105, 14108, 14109, 14111, 14112, 14113, 14119, 14121, 14124, 14127, 14145, 14149, 14151, 14152, 14154, 14155, 14157, 14158, 14161, 14162, 14164, 14172, 14176, 14177, 14182, 14183, 14184, 14191, 14192, 14196, 14203, 14204, 14205, 14209, 14210, 14213, 14222, 14229, 14230, 14233, 14236, 14242, 14244, 14246, 14251, 14259, 14273, 14276, 14280, 14281, 14283, 14286, 14287, 14289, 14294, 14295, 14299, 14300, 14301, 14311, 14324, 14326, 14327, 14328, 14329, 14330, 14333, 14334, 14337, 14339, 14342, 14343, 14354, 14355, 14357, 14359, 14368, 14373, 14379, 14381, 14386, 14387, 14393, 14396, 14397, 14398, 14409, 14410, 14412, 14420, 14426, 14430, 14431, 14433, 14436, 14440, 14442, 14443, 14449, 14451, 14458, 14461, 14463, 14464, 14466, 14469, 14473, 14480, 14481, 14484, 14485, 14486, 14492, 14493, 14496, 14498, 14502, 14507, 14508, 14511, 14513, 14519, 14520, 14524, 14526, 14527, 14531, 14533, 14539, 14542, 14543, 14547, 14549, 14550, 14552, 14558, 14564, 14566, 14569, 14571, 14573, 14580, 14584, 14586, 14587, 14588, 14590, 14592, 14593, 14596, 14598, 14603, 14609, 14617, 14618, 14621, 14622, 14623, 14624, 14630, 14631, 14633, 14634, 14635, 14644, 14646, 14647, 14649, 14650, 14652, 14654, 14655, 14657, 14659, 14660, 14662, 14663, 14667, 14668, 14669, 14684, 14685, 14694, 14698, 14709, 14715, 14719, 14720, 14722, 14725, 14728, 14729, 14731, 14733, 14739, 14741, 14745, 14746, 14748, 14750, 14751, 14762, 14763, 14766, 14770, 14773, 14775, 14778, 14782, 14783, 14784, 14788, 14795, 14798, 14800, 14801, 14805, 14810, 14814, 14815, 14823, 14824, 14831, 14844, 14847, 14850, 14851, 14852, 14854, 14860, 14862, 14871, 14872, 14875, 14879, 14880, 14881, 14887, 14888, 14891, 14894, 14895, 14898, 14904, 14906, 14912, 14914, 14919, 14921, 14922, 14923, 14924, 14927, 14929, 14933, 14934, 14940, 14948, 14951, 14953, 14955, 14956, 14960, 14963, 14965, 14966, 14971, 14973, 14977, 14980, 14985, 14986, 14990, 14995, 14997]

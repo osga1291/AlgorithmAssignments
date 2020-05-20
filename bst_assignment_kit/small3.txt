@@ -1,0 +1,24 @@
+R 28
+I  5
+D 2
+I  13
+D 3
+I  11
+S  12 false
+I  12
+S  7 false
+D 5
+I  7
+I  4
+S  11 true
+D 5
+I  26
+I  30
+S  1 false
+I  22
+S  26 true
+D 5
+I  1
+S  22 true
+D 5
+T [1, 4, 5, 7, 11, 12, 13, 22, 26, 28, 30]

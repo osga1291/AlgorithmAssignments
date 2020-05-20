@@ -1,0 +1,15 @@
+R 1
+I  20
+S  1 true
+D 2
+I  2
+S  20 true
+D 3
+I  15
+S  1 true
+I  3
+S  20 true
+I  4
+I  16
+D 6
+T [1, 2, 3, 4, 15, 16, 20]
